@@ -9,3 +9,5 @@ alias dot='git --git-dir=/Users/amatiasq/.dotfiles-git/ --work-tree=/Users/amati
 
 bindkey "^R" history-incremental-search-backward
 
+export NVM_DIR="$HOME/.nvm"
+source "$(brew --prefix nvm)/nvm.sh"
