@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Base16 Color Schemes",
+		"EthereumSoliditySnippets",
+		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"LESS",
+		"MarkdownEditing",
+		"Material Theme",
+		"Package Control",
+		"Preference Helper",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Theme - Soda",
+		"TypeScript"
+	]
+}
