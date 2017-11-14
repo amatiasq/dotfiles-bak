@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = A. Matías Quezada
+	email = amatiasq@gmail.com
+[core]
+	editor = vim
