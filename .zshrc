@@ -5,7 +5,7 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Ho
 alias ll='ls -FGlAhp'
 alias gca='git commit -a --amend'
 alias gr='./gradlew'
-alias dot='git --git-dir=/Users/amatiasq/.dotfiles-git/ --work-tree=/Users/amatiasq'
+alias dot="git --git-dir=$HOME/.dotfiles-git/ --work-tree=$HOME"
 
 bindkey "^R" history-incremental-search-backward
 
