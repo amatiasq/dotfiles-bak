@@ -1,6 +1,5 @@
 export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home"
 export NVM_DIR="$HOME/.nvm"
-
 source "/usr/local/opt/nvm/nvm.sh"
 
 cb() {
