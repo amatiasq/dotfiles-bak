@@ -1,0 +1,13 @@
+ ~/.config
+!~/.config/configstore
+
+# Tool to sync on sleep / wake up
+ ~/Applications/sleepwatcher_2.2
+
+# VSCode
+ ~/Library/Application Support/Code/User
+
+# Sublime Text 3
+ ~/Library/Application Support/Sublime Text 3/Packages/User
+!~/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache
+
