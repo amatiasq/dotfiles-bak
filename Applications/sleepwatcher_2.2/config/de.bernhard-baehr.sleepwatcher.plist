@@ -8,6 +8,7 @@
 	<array>
 		<string>/usr/local/bin/sleepwatcher</string>
 		<string>-V</string>
+		<string>-p potato.pid</string>
 		<string>-s ~/bin/dotsync-auto</string>
 		<string>-w ~/bin/dotsync-auto</string>
 	</array>
