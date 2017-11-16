@@ -6,7 +6,10 @@ cp $HOME/Applications/sleepwatcher_2.2/config/de.bernhard-baehr.sleepwatcher.pli
 
 # cp ~/Applications/sleepwatcher_2.2/sleepwatcher.8 /usr/local/share/man/man8
 
-launchctl load $HOME/Library/LaunchAgents 2> /dev/null
+USER_ID=$(id -u $USERNAME)
+launchctl load $HOME/Library/LaunchAgents/de.bernhard-baehr.sleepwatcher.plist 2> /dev/null
+launchctl bootstrap uid/$USER_ID de.bernhard-baehr.sleepwatcher.plist
+
 
 # 2. Read the man page and think about the features of SleepWatcher you want to use:
 
