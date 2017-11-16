@@ -1,14 +1,15 @@
 # 1. Install the SleepWatcher software:
+PLIST="$HOME/Library/LaunchAgents/de.bernhard-baehr.sleepwatcher.plist"
 
-mkdir -p /usr/local/bin /usr/local/share/man/man8
+mkdir -p /usr/local/bin # /usr/local/share/man/man8
 cp $HOME/Applications/sleepwatcher_2.2/sleepwatcher /usr/local/bin
-cp $HOME/Applications/sleepwatcher_2.2/config/de.bernhard-baehr.sleepwatcher.plist $HOME/Library/LaunchAgents
+cp $HOME/Applications/sleepwatcher_2.2/config/de.bernhard-baehr.sleepwatcher.plist "$PLIST"
 
 # cp ~/Applications/sleepwatcher_2.2/sleepwatcher.8 /usr/local/share/man/man8
 
-USER_ID=$(id -u $USERNAME)
-launchctl load $HOME/Library/LaunchAgents/de.bernhard-baehr.sleepwatcher.plist 2> /dev/null
-launchctl bootstrap uid/$USER_ID de.bernhard-baehr.sleepwatcher.plist
+launchctl unload "$PLIST" 2> /dev/null
+launchctl load "$PLIST"
+launchctl stop "$PLIST"
 
 
 # 2. Read the man page and think about the features of SleepWatcher you want to use:
