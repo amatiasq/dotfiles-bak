@@ -3,5 +3,6 @@
     "editor.tabSize": 4,
     "editor.rulers": [ 80, 120 ],
     "typescript.tsdk": "/usr/local/lib/node_modules/typescript/lib",
-    "editor.detectIndentation": false
+    "editor.detectIndentation": false,
+    "window.zoomLevel": 1
 }
