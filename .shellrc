@@ -23,3 +23,6 @@ if [ -d "$HOME/bin-nr" ]; then
   export PATH="$HOME/bin-nr:$PATH"
 fi
 
+if [ -f /usr/local/etc/bash_completion ]; then
+. /usr/local/etc/bash_completion
+fi
