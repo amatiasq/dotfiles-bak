@@ -4,5 +4,6 @@
     "editor.rulers": [ 80, 120 ],
     "typescript.tsdk": "/usr/local/lib/node_modules/typescript/lib",
     "editor.detectIndentation": false,
+    "sort-imports.on-save": false,
     "window.zoomLevel": 1
 }
