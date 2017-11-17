@@ -13,6 +13,7 @@ alias r='npm run'
 alias push='git push origin $(cb)'
 alias gc='git status && git commit -am'
 alias gca='git status && git commit --amend -a --no-edit'
+alias log='git log --graph --decorate --oneline --all'
 alias amend='gca && push -f'
 
 export DOT="git --git-dir=$HOME/.dotfiles-git/ --work-tree=$HOME"
