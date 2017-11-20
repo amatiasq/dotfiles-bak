@@ -2,14 +2,14 @@ ship = KE1
 version = 1.3.1
 description = 
 type = VAB
-size = 4.18742228,6.79225397,1.32500124
+size = 4.18742275,6.79225397,2.00553608
 PART
 {
 	part = mk1pod_4294706098
 	partName = Part
-	pos = -0.981705904,5.8129487,1.10811484
+	pos = -0.911725581,6.14439869,1.07824779
 	attPos = 0,0,0
-	attPos0 = -0.981705904,5.8129487,1.10811484
+	attPos0 = -0.911725581,6.14439869,1.07824779
 	rot = 0,0,0,1
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
@@ -29,6 +29,10 @@ PART
 	modSize = 0,0,0
 	link = fuelTank_4294701314
 	link = parachuteSingle_4294698200
+	link = sensorBarometer_4294470926
+	link = sensorBarometer_4294470894
+	link = sensorThermometer_4294469224
+	link = sensorThermometer_4294469164
 	attN = bottom,fuelTank_4294701314
 	attN = top,parachuteSingle_4294698200
 	EVENTS
@@ -279,7 +283,7 @@ PART
 {
 	part = fuelTank_4294701314
 	partName = Part
-	pos = -0.981705904,4.44222116,1.10811484
+	pos = -0.911725581,4.77367115,1.07824779
 	attPos = 0,0,0
 	attPos0 = 0,-1.37072754,0
 	rot = 0,0,0,1
@@ -338,7 +342,7 @@ PART
 {
 	part = parachuteSingle_4294698200
 	partName = Part
-	pos = -0.981705904,6.47040606,1.10811484
+	pos = -0.911725581,6.80185604,1.07824779
 	attPos = 0,0,0
 	attPos0 = 0,0.657457352,0
 	rot = 0,0,0,1
@@ -447,7 +451,7 @@ PART
 {
 	part = fuelTank_4294674040
 	partName = Part
-	pos = -0.981705904,2.56403112,1.10811484
+	pos = -0.911725581,2.89548111,1.07824779
 	attPos = 0,0,0
 	attPos0 = 0,-1.87819004,0
 	rot = 0,0,0,1
@@ -470,6 +474,10 @@ PART
 	link = liquidEngine2_4294674010
 	link = radialDecoupler_4294673904
 	link = radialDecoupler_4294673854
+	link = miniLandingLeg_4294704704
+	link = miniLandingLeg_4294702550
+	link = miniLandingLeg_4294702374
+	link = miniLandingLeg_4294702198
 	attN = top,fuelTank_4294701314
 	attN = bottom,liquidEngine2_4294674010
 	EVENTS
@@ -508,7 +516,7 @@ PART
 {
 	part = liquidEngine2_4294674010
 	partName = Part
-	pos = -0.981705904,0.749705791,1.10811484
+	pos = -0.911725581,1.08115578,1.07824779
 	attPos = 0,0,0
 	attPos0 = 0,-1.81432533,0
 	rot = 0,0,0,1
@@ -705,7 +713,7 @@ PART
 {
 	part = radialDecoupler_4294673904
 	partName = Part
-	pos = -1.61291635,2.35693312,1.10811484
+	pos = -1.54293609,2.6883831,1.07824779
 	attPos = 0,0,0
 	attPos0 = -0.631210446,-0.207098007,3.7252903E-08
 	rot = -7.48678476E-23,8.42937027E-08,-1.77635684E-15,1
@@ -809,7 +817,7 @@ PART
 {
 	part = radialDecoupler_4294673854
 	partName = Part
-	pos = -0.350495458,2.35693312,1.10811472
+	pos = -0.280515134,2.6883831,1.07824767
 	attPos = 0,0,0
 	attPos0 = 0.631210446,-0.207098007,-8.94069672E-08
 	rot = -1.77635684E-15,1,1.52514871E-22,-1.28005098E-07
@@ -913,7 +921,7 @@ PART
 {
 	part = solidBooster_4294684100
 	partName = Part
-	pos = -2.41291642,1.65693331,1.10811484
+	pos = -2.34293604,1.98838329,1.07824779
 	attPos = -0.0136266947,-0.525312424,-1.51308896E-07
 	attPos0 = -0.786373377,-0.174687386,1.64389604E-08
 	rot = -5.02429663E-15,-0.707106769,-5.02429578E-15,0.707106888
@@ -1042,7 +1050,7 @@ PART
 {
 	part = solidBooster_4294683614
 	partName = Part
-	pos = 0.449504614,1.65693331,1.1081146
+	pos = 0.519484937,1.98838329,1.07824755
 	attPos = -0.0136266947,-0.525312424,-1.00346114E-07
 	attPos0 = -0.786373377,-0.174687386,1.47472292E-08
 	rot = -5.02429621E-15,0.707106948,5.02429621E-15,0.707106709
@@ -1171,10 +1179,10 @@ PART
 {
 	part = noseCone_4294669240
 	partName = Part
-	pos = -2.41291642,2.93877077,1.10811484
+	pos = -2.34293604,3.27022076,1.07824779
 	attPos = 0,0,0
 	attPos0 = 0,1.28183746,1.36620011E-14
-	rot = 7.10142432E-22,-3.49155798E-08,-1.27054942E-21,1.00000012
+	rot = 7.10142381E-22,-3.49155798E-08,-2.11758237E-21,1.00000012
 	attRot = 0,0,0,1
 	attRot0 = 5.02429663E-15,0.707106769,5.02429578E-15,0.707106888
 	mir = 1,1,1
@@ -1207,10 +1215,10 @@ PART
 {
 	part = noseCone_4294669120
 	partName = Part
-	pos = 0.449504614,2.93877077,1.1081146
+	pos = 0.519484937,3.27022076,1.07824755
 	attPos = 0,0,0
 	attPos0 = -1.62863714E-21,1.28183746,1.36620011E-14
-	rot = 8.47032947E-22,1.00000012,-1.76893382E-21,-8.79582274E-09
+	rot = 8.47032947E-22,1.00000012,-2.61596677E-21,-8.79582274E-09
 	attRot = 0,0,0,1
 	attRot0 = 5.02429705E-15,0.707106769,5.02429578E-15,0.707106888
 	mir = 1,1,1
@@ -1237,5 +1245,869 @@ PART
 	}
 	PARTDATA
 	{
+	}
+}
+PART
+{
+	part = miniLandingLeg_4294704704
+	partName = Part
+	pos = -1.26334894,1.32021427,0.72662437
+	attPos = 0.118215263,-0.646315575,0.118215203
+	attPos0 = -0.469838619,-0.928951263,-0.469838619
+	rot = 9.87689575E-09,0.382683396,-2.38449349E-08,-0.923879564
+	attRot = 0,0,0,1
+	attRot0 = 9.87689575E-09,0.382683396,-2.38449349E-08,-0.923879564
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = ForceHeaviest
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = miniLandingLeg_4294702550
+	sym = miniLandingLeg_4294702374
+	sym = miniLandingLeg_4294702198
+	srfN = srfAttach,fuelTank_4294674040
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleWheelBase
+		isEnabled = True
+		wheelType = LEG
+		isGrounded = False
+		autoFriction = False
+		frictionMultiplier = 1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActAutoFrictionToggle
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelSuspension
+		isEnabled = True
+		springTweakable = 1
+		damperTweakable = 1
+		suspensionPos = (-1, -1, -1)
+		autoBoost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDeployment
+		isEnabled = True
+		shieldedCanDeploy = False
+		stateDisplayString = Desplegada
+		stateString = Deployed
+		stagingEnabled = True
+		position = 1
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActionToggle
+			{
+				actionGroup = Gear
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelLock
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDamage
+		isEnabled = True
+		isDamaged = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = miniLandingLeg_4294702550
+	partName = Part
+	pos = -1.26334906,1.32021427,1.42987108
+	attPos = 0.118215144,-0.646315575,-0.118215203
+	attPos0 = -0.469838619,-0.928951263,0.4698385
+	rot = -9.87689486E-09,-0.382683486,-2.38449349E-08,-0.923879504
+	attRot = 0,0,0,1
+	attRot0 = -9.87689486E-09,-0.382683486,-2.38449349E-08,-0.923879504
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = ForceHeaviest
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = miniLandingLeg_4294704704
+	sym = miniLandingLeg_4294702374
+	sym = miniLandingLeg_4294702198
+	srfN = srfAttach,fuelTank_4294674040
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleWheelBase
+		isEnabled = True
+		wheelType = LEG
+		isGrounded = False
+		autoFriction = False
+		frictionMultiplier = 1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActAutoFrictionToggle
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelSuspension
+		isEnabled = True
+		springTweakable = 1
+		damperTweakable = 1
+		suspensionPos = (-1, -1, -1)
+		autoBoost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDeployment
+		isEnabled = True
+		shieldedCanDeploy = False
+		stateDisplayString = Desplegada
+		stateString = Deployed
+		stagingEnabled = True
+		position = 1
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActionToggle
+			{
+				actionGroup = Gear
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelLock
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDamage
+		isEnabled = True
+		isDamaged = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = miniLandingLeg_4294702374
+	partName = Part
+	pos = -0.560102224,1.32021427,1.4298712
+	attPos = -0.118215263,-0.646315575,-0.118215203
+	attPos0 = 0.469838619,-0.928951263,0.469838619
+	rot = -2.38449349E-08,-0.923879564,-9.87689486E-09,-0.382683367
+	attRot = 0,0,0,1
+	attRot0 = -2.38449349E-08,-0.923879564,-9.87689486E-09,-0.382683367
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = ForceHeaviest
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = miniLandingLeg_4294704704
+	sym = miniLandingLeg_4294702550
+	sym = miniLandingLeg_4294702198
+	srfN = srfAttach,fuelTank_4294674040
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleWheelBase
+		isEnabled = True
+		wheelType = LEG
+		isGrounded = False
+		autoFriction = False
+		frictionMultiplier = 1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActAutoFrictionToggle
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelSuspension
+		isEnabled = True
+		springTweakable = 1
+		damperTweakable = 1
+		suspensionPos = (-1, -1, -1)
+		autoBoost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDeployment
+		isEnabled = True
+		shieldedCanDeploy = False
+		stateDisplayString = Desplegada
+		stateString = Deployed
+		stagingEnabled = True
+		position = 1
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActionToggle
+			{
+				actionGroup = Gear
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelLock
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDamage
+		isEnabled = True
+		isDamaged = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = miniLandingLeg_4294702198
+	partName = Part
+	pos = -0.560102224,1.32021427,0.726624429
+	attPos = -0.118215203,-0.646315575,0.118215263
+	attPos0 = 0.46983856,-0.928951263,-0.469838619
+	rot = -2.38449349E-08,-0.923879504,9.87689486E-09,0.382683486
+	attRot = 0,0,0,1
+	attRot0 = -2.38449349E-08,-0.923879504,9.87689486E-09,0.382683486
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = ForceHeaviest
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = miniLandingLeg_4294704704
+	sym = miniLandingLeg_4294702550
+	sym = miniLandingLeg_4294702374
+	srfN = srfAttach,fuelTank_4294674040
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleWheelBase
+		isEnabled = True
+		wheelType = LEG
+		isGrounded = False
+		autoFriction = False
+		frictionMultiplier = 1
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActAutoFrictionToggle
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelSuspension
+		isEnabled = True
+		springTweakable = 1
+		damperTweakable = 1
+		suspensionPos = (-1, -1, -1)
+		autoBoost = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDeployment
+		isEnabled = True
+		shieldedCanDeploy = False
+		stateDisplayString = Desplegada
+		stateString = Deployed
+		stagingEnabled = True
+		position = 1
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ActionToggle
+			{
+				actionGroup = Gear
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelLock
+		isEnabled = True
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleWheelDamage
+		isEnabled = True
+		isDamaged = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = sensorBarometer_4294470926
+	partName = Part
+	pos = -1.17565477,6.49492979,0.814318538
+	attPos = 0,0,0
+	attPos0 = -0.263929188,0.350531101,-0.263929248
+	rot = -0.16816628,-0.37629056,0.0696567595,-0.908445656
+	attRot = 0,0,0,1
+	attRot0 = -0.16816628,-0.37629056,0.0696567595,-0.908445656
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = sensorBarometer_4294470894
+	srfN = srfAttach,mk1pod_4294706098
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleEnviroSensor
+		isEnabled = True
+		sensorActive = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleScienceExperiment
+		isEnabled = True
+		Deployed = False
+		Inoperable = False
+		cooldownToGo = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			DeployAction
+			{
+				actionGroup = None
+			}
+			ResetAction
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = sensorBarometer_4294470894
+	partName = Part
+	pos = -0.647796392,6.49492979,1.34217703
+	attPos = 0,0,0
+	attPos0 = 0.263929188,0.350531101,0.263929248
+	rot = 0.069656767,-0.908445656,0.16816628,0.37629059
+	attRot = 0,0,0,1
+	attRot0 = 0.069656767,-0.908445656,0.16816628,0.37629059
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = sensorBarometer_4294470926
+	srfN = srfAttach,mk1pod_4294706098
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleEnviroSensor
+		isEnabled = True
+		sensorActive = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleScienceExperiment
+		isEnabled = True
+		Deployed = False
+		Inoperable = False
+		cooldownToGo = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			DeployAction
+			{
+				actionGroup = None
+			}
+			ResetAction
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = sensorThermometer_4294469224
+	partName = Part
+	pos = -0.734514177,6.53079844,0.77130872
+	attPos = 0,0,0
+	attPos0 = 0.177211404,0.386399746,-0.306939065
+	rot = -0.175819695,0.254494876,-0.0471106507,-0.949789703
+	attRot = 0,0,0,1
+	attRot0 = -0.175819695,0.254494876,-0.0471106507,-0.949789703
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = sensorThermometer_4294469164
+	srfN = srfAttach,mk1pod_4294706098
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleEnviroSensor
+		isEnabled = True
+		sensorActive = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleScienceExperiment
+		isEnabled = True
+		Deployed = False
+		Inoperable = False
+		cooldownToGo = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			DeployAction
+			{
+				actionGroup = None
+			}
+			ResetAction
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+}
+PART
+{
+	part = sensorThermometer_4294469164
+	partName = Part
+	pos = -1.08893692,6.53079844,1.38518691
+	attPos = 0,0,0
+	attPos0 = -0.177211344,0.386399746,0.306939125
+	rot = -0.0471106432,-0.949789703,0.175819695,-0.254494846
+	attRot = 0,0,0,1
+	attRot0 = -0.0471106432,-0.949789703,0.175819695,-0.254494846
+	mir = 1,1,1
+	symMethod = Radial
+	autostrutMode = Off
+	rigidAttachment = False
+	istg = -1
+	resPri = 0
+	dstg = 0
+	sidx = -1
+	sqor = -1
+	sepI = -1
+	attm = 1
+	modCost = 0
+	modMass = 0
+	modSize = 0,0,0
+	sym = sensorThermometer_4294469224
+	srfN = srfAttach,mk1pod_4294706098
+	EVENTS
+	{
+	}
+	ACTIONS
+	{
+	}
+	PARTDATA
+	{
+	}
+	MODULE
+	{
+		name = ModuleEnviroSensor
+		isEnabled = True
+		sensorActive = False
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			ToggleAction
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
+	}
+	MODULE
+	{
+		name = ModuleScienceExperiment
+		isEnabled = True
+		Deployed = False
+		Inoperable = False
+		cooldownToGo = 0
+		stagingEnabled = True
+		EVENTS
+		{
+		}
+		ACTIONS
+		{
+			DeployAction
+			{
+				actionGroup = None
+			}
+			ResetAction
+			{
+				actionGroup = None
+			}
+		}
+		UPGRADESAPPLIED
+		{
+		}
 	}
 }

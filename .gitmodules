@@ -55,3 +55,6 @@
 [submodule "repos/wMUD"]
 	path = repos/wMUD
 	url = git@github.com:amatiasq/wMUD
+[submodule "repos/dotfiles-boilerplate"]
+	path = repos/dotfiles-boilerplate
+	url = git@github.com:amatiasq/dotfiles-boilerplate
