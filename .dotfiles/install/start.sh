@@ -4,6 +4,7 @@ function run() {
   bash "$HOME/.dotfiles/install/$1"
 }
 
+run shell.sh
 run brew.sh
 run node.sh
 run applications.sh

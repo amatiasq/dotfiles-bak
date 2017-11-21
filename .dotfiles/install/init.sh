@@ -34,7 +34,7 @@ read < /dev/tty
 
 DOT="git --git-dir=$HOME/.dot/ --work-tree=$HOME"
 
-git clone --bare --depth=1 "git@github.com:$USER/dotfiles" $HOME/.dot
+git clone --bare --depth=1 "git@github.com:amatiasq/dotfiles" $HOME/.dot
 
 $DOT checkout
 

@@ -1,15 +1,6 @@
-cb() {
-  # get current branch
-  git branch | grep '*' | awk '{print $2}'
-}
+source ~/.git-completion.bash
+source ~/.git-prompt.sh
 
-if [ -d "/usr/local/opt/nvm" ]; then
-  export NVM_DIR="$HOME/.nvm"
-  source "/usr/local/opt/nvm/nvm.sh"
-fi
+PS1='\e[0;36m\u\e[0;37m:\e[0;33m\w\e[0;32m$(__git_ps1)\e[0;37m$ '
 
-export PATH="$HOME/bin:/usr/local/bin:$PATH"
-expor DOT=$($HOME/.dotfiles/command)
-
-alias dot="$DOT"
-
+source ~/.shellrc
