@@ -1,0 +1,2110 @@
+"UserRoamingConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"DesktopShortcutCheck"		"0"
+				"StartMenuShortcutCheck"		"0"
+				"AutoLaunchGameListCheck"		"1"
+				"SteamDefaultDialog"		"#app_games"
+				"SSAVersion"		"3"
+				"Apps"
+				{
+					"48190"
+					{
+						"LastPlayed"		"1368364900"
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"4560"
+					{
+						"LastPlayed"		"1355343668"
+						"hidden"		"1"
+					}
+					"201870"
+					{
+						"LastPlayed"		"1366482367"
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"208480"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"242050"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"260210"
+					{
+						"hidden"		"1"
+					}
+					"41210"
+					{
+						"tags"
+						{
+							"0"		"Ignorame"
+						}
+						"hidden"		"1"
+					}
+					"8930"
+					{
+						"cloudenabled"		"1"
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"47890"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"207610"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"261030"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"22600"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"40700"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"209790"
+					{
+						"hidden"		"1"
+					}
+					"236850"
+					{
+						"hidden"		"1"
+					}
+					"26500"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"400"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"620"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"440"
+					{
+						"cloudenabled"		"1"
+						"tags"
+						{
+							"0"		"Multiplayer"
+						}
+					}
+					"72850"
+					{
+						"cloudenabled"		"1"
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"219740"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"48950"
+					{
+						"hidden"		"1"
+					}
+					"245470"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"239030"
+					{
+						"cloudenabled"		"1"
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"221810"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"17390"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"221910"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"322330"
+					{
+						"tags"
+						{
+							"0"		"Multiplayer"
+						}
+					}
+					"200260"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"32430"
+					{
+						"hidden"		"1"
+					}
+					"32500"
+					{
+						"hidden"		"1"
+					}
+					"32370"
+					{
+						"hidden"		"1"
+					}
+					"6020"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"33250"
+					{
+						"tags"
+						{
+							"0"		"Estrategia"
+						}
+					}
+					"220240"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"272600"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"268540"
+					{
+						"hidden"		"1"
+					}
+					"41900"
+					{
+						"hidden"		"1"
+					}
+					"107100"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"26800"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"57640"
+					{
+						"hidden"		"1"
+					}
+					"33600"
+					{
+						"hidden"		"1"
+					}
+					"242780"
+					{
+						"hidden"		"1"
+					}
+					"307570"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"48000"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"17460"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"43110"
+					{
+						"hidden"		"1"
+					}
+					"3830"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"55230"
+					{
+						"tags"
+						{
+							"0"		"Recomendados"
+						}
+					}
+					"40800"
+					{
+						"tags"
+						{
+							"0"		"Rapido"
+						}
+					}
+					"63500"
+					{
+						"hidden"		"1"
+					}
+					"4540"
+					{
+						"hidden"		"1"
+					}
+					"214950"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+							"1"		"Probar"
+						}
+					}
+					"227200"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"18490"
+					{
+						"hidden"		"1"
+					}
+					"333950"
+					{
+					}
+					"57300"
+					{
+						"hidden"		"1"
+					}
+					"35140"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"209000"
+					{
+						"cloudenabled"		"1"
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"33350"
+					{
+						"tags"
+						{
+							"0"		"Estrategia"
+						}
+					}
+					"228200"
+					{
+						"hidden"		"1"
+					}
+					"9340"
+					{
+						"hidden"		"1"
+					}
+					"20540"
+					{
+						"hidden"		"1"
+					}
+					"26900"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"50620"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"238010"
+					{
+						"tags"
+						{
+							"0"		"Recomendados"
+						}
+					}
+					"221180"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"21090"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"21110"
+					{
+						"hidden"		"1"
+					}
+					"21120"
+					{
+						"hidden"		"1"
+					}
+					"203140"
+					{
+						"tags"
+						{
+							"0"		"Recomendados"
+						}
+					}
+					"230150"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"35130"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"253410"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"244070"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"244090"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"3910"
+					{
+						"hidden"		"1"
+					}
+					"8800"
+					{
+						"hidden"		"1"
+					}
+					"16810"
+					{
+						"hidden"		"1"
+					}
+					"3990"
+					{
+						"hidden"		"1"
+					}
+					"3900"
+					{
+						"hidden"		"1"
+					}
+					"3920"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"7600"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"244850"
+					{
+						"tags"
+						{
+							"0"		"Meh"
+						}
+					}
+					"32380"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"32400"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"6060"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"208580"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"32470"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"32350"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"6000"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"6030"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"243040"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"204060"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"40100"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"239160"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"108200"
+					{
+						"hidden"		"1"
+					}
+					"4570"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"61600"
+					{
+						"hidden"		"1"
+					}
+					"319970"
+					{
+						"hidden"		"1"
+					}
+					"209830"
+					{
+						"hidden"		"0"
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"233290"
+					{
+						"hidden"		"1"
+					}
+					"55110"
+					{
+						"hidden"		"1"
+					}
+					"314540"
+					{
+						"hidden"		"1"
+					}
+					"233740"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"112100"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"251530"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"234900"
+					{
+						"tags"
+						{
+							"0"		"No me interesa"
+						}
+						"hidden"		"1"
+					}
+					"34440"
+					{
+						"hidden"		"1"
+					}
+					"34460"
+					{
+						"hidden"		"1"
+					}
+					"34450"
+					{
+						"hidden"		"1"
+					}
+					"8850"
+					{
+						"hidden"		"1"
+					}
+					"8870"
+					{
+						"cloudenabled"		"1"
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"7670"
+					{
+						"hidden"		"1"
+					}
+					"282070"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"12100"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"12210"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"12110"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"12120"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"22000"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"12220"
+					{
+						"hidden"		"1"
+					}
+					"12250"
+					{
+						"tags"
+						{
+							"0"		"Elite"
+						}
+						"hidden"		"1"
+					}
+					"12230"
+					{
+						"tags"
+						{
+							"0"		"Elite"
+						}
+						"hidden"		"1"
+					}
+					"12240"
+					{
+						"tags"
+						{
+							"0"		"Elite"
+						}
+						"hidden"		"1"
+					}
+					"6830"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"208650"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"33230"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"6800"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"6810"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"6840"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"224500"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"314160"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"233450"
+					{
+						"tags"
+						{
+							"0"		"Estrategia"
+						}
+					}
+					"330840"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"201830"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"31170"
+					{
+						"hidden"		"1"
+					}
+					"31180"
+					{
+						"hidden"		"1"
+					}
+					"31190"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"31200"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"31210"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"31290"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"94500"
+					{
+						"hidden"		"1"
+					}
+					"94510"
+					{
+						"hidden"		"1"
+					}
+					"94520"
+					{
+						"hidden"		"1"
+					}
+					"94530"
+					{
+						"hidden"		"1"
+					}
+					"22300"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"500"
+					{
+						"hidden"		"1"
+					}
+					"550"
+					{
+						"tags"
+						{
+							"0"		"Multiplayer"
+						}
+					}
+					"320"
+					{
+						"hidden"		"1"
+					}
+					"380"
+					{
+						"hidden"		"1"
+					}
+					"420"
+					{
+						"hidden"		"1"
+					}
+					"340"
+					{
+						"hidden"		"1"
+					}
+					"360"
+					{
+						"hidden"		"1"
+					}
+					"130"
+					{
+						"hidden"		"1"
+					}
+					"50"
+					{
+						"hidden"		"1"
+					}
+					"280"
+					{
+						"hidden"		"1"
+					}
+					"240"
+					{
+						"hidden"		"1"
+					}
+					"730"
+					{
+						"tags"
+						{
+							"0"		"Extensiones"
+						}
+						"hidden"		"1"
+					}
+					"100"
+					{
+						"hidden"		"1"
+					}
+					"80"
+					{
+						"hidden"		"1"
+					}
+					"223530"
+					{
+						"tags"
+						{
+							"0"		"Ignorame"
+						}
+						"hidden"		"1"
+					}
+					"217200"
+					{
+						"hidden"		"1"
+					}
+					"13560"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"13570"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"20"
+					{
+						"tags"
+						{
+							"0"		"Ignorame"
+						}
+						"hidden"		"1"
+					}
+					"313120"
+					{
+						"hidden"		"1"
+					}
+					"32360"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"32460"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"319630"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"70"
+					{
+						"hidden"		"1"
+					}
+					"220"
+					{
+						"hidden"		"1"
+					}
+					"205790"
+					{
+						"tags"
+						{
+							"0"		"Ignorame"
+						}
+						"hidden"		"1"
+					}
+					"267490"
+					{
+						"tags"
+						{
+							"0"		"Ignorame"
+						}
+						"hidden"		"1"
+					}
+					"268500"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"264200"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"10"
+					{
+						"hidden"		"1"
+					}
+					"30"
+					{
+						"tags"
+						{
+							"0"		"qqqqqqqqqqqqqqqqqqq"
+						}
+						"hidden"		"1"
+					}
+					"300"
+					{
+						"tags"
+						{
+							"0"		"qqqqqqqqqqqqqqqqqqq"
+						}
+						"hidden"		"1"
+					}
+					"40"
+					{
+						"tags"
+						{
+							"0"		"qqqqqqqqqqqqqqqqqqq"
+						}
+						"hidden"		"1"
+					}
+					"570"
+					{
+						"hidden"		"1"
+					}
+					"60"
+					{
+						"hidden"		"1"
+					}
+					"247080"
+					{
+						"cloudenabled"		"1"
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"275850"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"289650"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"311560"
+					{
+						"hidden"		"1"
+					}
+					"215670"
+					{
+					}
+					"385710"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"253250"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"220780"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"57690"
+					{
+						"tags"
+						{
+							"0"		"Recomendados"
+						}
+					}
+					"212680"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"214560"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"10150"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"22230"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"115320"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"391540"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"387990"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"294100"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"315460"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"475150"
+					{
+						"hidden"		"1"
+					}
+					"1840"
+					{
+						"hidden"		"1"
+					}
+					"266840"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"255710"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"377160"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"271590"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"304430"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"252950"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"281990"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"322500"
+					{
+						"tags"
+						{
+							"0"		"Rapido"
+						}
+					}
+					"443810"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"274190"
+					{
+						"tags"
+						{
+							"0"		"Rapido"
+						}
+					}
+					"388210"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"17410"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"292030"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"200510"
+					{
+						"tags"
+						{
+							"0"		"Sin terminar"
+						}
+					}
+					"15100"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"409710"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"409720"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"362680"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"524220"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"388880"
+					{
+						"tags"
+						{
+							"0"		"Terminados"
+						}
+					}
+					"475550"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"203770"
+					{
+						"tags"
+						{
+							"0"		"Recomendados"
+						}
+					}
+					"22380"
+					{
+						"tags"
+						{
+							"0"		"Recomendados"
+						}
+					}
+					"383870"
+					{
+						"tags"
+						{
+							"0"		"Recomendados"
+						}
+					}
+					"220200"
+					{
+						"tags"
+						{
+							"0"		"Los de siempre"
+						}
+					}
+					"48700"
+					{
+						"tags"
+						{
+							"0"		"Recomendados"
+						}
+					}
+					"498240"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"253110"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"94300"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"536220"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"429570"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"359580"
+					{
+						"tags"
+						{
+							"0"		"Sin empezar"
+						}
+					}
+					"247020"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"287980"
+					{
+						"tags"
+						{
+							"0"		"Casuales"
+						}
+					}
+					"285900"
+					{
+						"tags"
+						{
+							"0"		"Multiplayer"
+						}
+					}
+					"80200"
+					{
+						"tags"
+						{
+							"0"		"Estrategia"
+						}
+					}
+					"359230"
+					{
+						"tags"
+						{
+							"0"		"Estrategia"
+						}
+					}
+					"403190"
+					{
+						"tags"
+						{
+							"0"		"Estrategia"
+						}
+					}
+					"317280"
+					{
+						"hidden"		"1"
+					}
+					"462780"
+					{
+						"hidden"		"1"
+					}
+					"238460"
+					{
+						"hidden"		"1"
+					}
+				}
+				"PrivacyPolicyVersion"		"2"
+			}
+		}
+	}
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+		"WebRecent0_URL"		"http://store.steampowered.com/news/26160/?insideModal=1"
+		"WebRecent0_Name"		"Noticias - Daily Deal - Age of Mythology: Extended Edition, 75% Off"
+		"WebFrequent0_URL"		"http://soporte.bq.com//customer.pl?#Reset"
+		"WebFrequent0_Name"		"Login - Soporte bq"
+		"WebFrequent0_Access"		"3"
+		"WebRecent1_URL"		"https://www.google.es/?gfe_rd=cr&ei=fcwWWYqdDovY8gekipyIBw"
+		"WebRecent1_Name"		"Google"
+		"WebFrequent1_URL"		"https://www.youtube.com/"
+		"WebFrequent1_Name"		"YouTube"
+		"WebFrequent1_Access"		"3"
+		"WebRecent2_URL"		"http://steamcommunity.com/market/search?appid=440"
+		"WebRecent2_Name"		"Mercado de la Comunidad Steam :: Mostrando resultados para: Team Fortress 2"
+		"WebFrequent2_URL"		"http://steamcommunity.com/app/255710/workshop/"
+		"WebFrequent2_Name"		"Comunidad Steam :: Cities: Skylines"
+		"WebFrequent2_Access"		"3"
+		"WebRecent3_URL"		"http://steamcommunity.com/sharedfiles/filedetails/?id=593588108"
+		"WebRecent3_Name"		"Steam Workshop :: Prop & Tree Anarchy"
+		"WebFrequent3_URL"		"http://steamcommunity.com/profiles/76561198058830888/screenshots/"
+		"WebFrequent3_Name"		"Comunidad Steam :: amatiasq :: Capturas"
+		"WebFrequent3_Access"		"2"
+		"WebRecent4_URL"		"http://steamcommunity.com/workshop/browse?appid=282070&requiredtags[]=Mod"
+		"WebRecent4_Name"		"This War of Mine"
+		"WebFrequent4_URL"		"https://acbf-pc.ubi.com/store/index/src/game"
+		"WebFrequent4_Name"		"TIENDA ABSTERGO"
+		"WebFrequent4_Access"		"1"
+		"WebRecent5_URL"		"http://steamcommunity.com/app/261030/discussions/"
+		"WebRecent5_Name"		"The Walking Dead: Season Two Discusiones generales :: Comunidad Steam"
+		"WebFrequent5_URL"		"http://store.steampowered.com/news/26160/?insideModal=1"
+		"WebFrequent5_Name"		"Noticias - Daily Deal - Age of Mythology: Extended Edition, 75% Off"
+		"WebFrequent5_Access"		"1"
+	}
+	"TradeInfoHint"		"1"
+	"controller_config"
+	{
+		"48190"
+		{
+			"selected"		"workshop://675809295"
+			"usetime"		"100.609375"
+		}
+		"208480"
+		{
+			"selected"		"template://generic gamepad.vdf"
+			"usetime"		"1659.2738037109375"
+		}
+		"209000"
+		{
+			"selected"		"usercloud://controller_config/209000/$$$autosave.vdf"
+		}
+		"620"
+		{
+			"selected"		"workshop://531520661"
+			"usetime"		"36772.37890625"
+		}
+		"22300"
+		{
+			"selected"		"workshop://537738806"
+			"usetime"		"160.3043212890625"
+		}
+		"330840"
+		{
+			"selected"		"usercloud://controller_config/330840/$$$autosave.vdf"
+			"usetime"		"2798.46484375"
+		}
+		"550"
+		{
+			"selected"		"workshop://594529202"
+			"usetime"		"5818.875"
+		}
+		"233450"
+		{
+			"selected"		"template://gamepad+mouse.vdf"
+		}
+		"239160"
+		{
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"32360"
+		{
+			"selected"		"workshop://493548513"
+		}
+		"57300"
+		{
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"219740"
+		{
+			"selected"		"template://gamepad_fps.vdf"
+			"usetime"		"2187"
+		}
+		"314540"
+		{
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"208650"
+		{
+			"selected"		"workshop://605064897"
+			"usetime"		"24739.76171875"
+		}
+		"13560"
+		{
+			"selected"		"template://gamepad+mouse.vdf"
+			"usetime"		"12.98828125"
+		}
+		"18490"
+		{
+			"selected"		"template://wasd.vdf"
+		}
+		"40800"
+		{
+			"selected"		"template://gamepad_fps.vdf"
+			"usetime"		"2534.57275390625"
+		}
+		"55230"
+		{
+			"selected"		"template://gamepad_fps.vdf"
+			"usetime"		"771.5421142578125"
+		}
+		"238010"
+		{
+			"selected"		"template://gamepad_fps.vdf"
+			"usetime"		"963.3525390625"
+		}
+		"48000"
+		{
+			"usetime"		"997.02752685546875"
+			"selected"		"workshop://537947494"
+		}
+		"730"
+		{
+			"usetime"		"1654.96875"
+			"selected"		"workshop://675819234"
+		}
+		"12110"
+		{
+			"usetime"		"89.27734375"
+			"selected"		"workshop://603506546"
+		}
+		"440"
+		{
+			"usetime"		"32900.71484375"
+			"selected"		"workshop://868075209"
+		}
+		"267490"
+		{
+			"usetime"		"0"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"268500"
+		{
+			"usetime"		"142691.4375"
+			"selected"		"workshop://619569347"
+			"enablerumble"		"0"
+			"rumbleintensity"		"320"
+		}
+		"280790"
+		{
+			"usetime"		"939.03753662109375"
+			"selected"		"workshop://634228736"
+		}
+		"253250"
+		{
+			"usetime"		"1842.88671875"
+			"selected"		"template://wasd.vdf"
+		}
+		"zeus and poseidon"
+		{
+			"usetime"		"4876.88037109375"
+		}
+		"minecraft"
+		{
+			"usetime"		"8.15447998046875"
+			"selected"		"workshop://641858232"
+		}
+		"264200"
+		{
+			"usetime"		"1542.248291015625"
+			"selected"		"workshop://576828633"
+		}
+		"47890"
+		{
+			"usetime"		"786.54571533203125"
+			"selected"		"workshop://587760745"
+		}
+		"3830"
+		{
+			"usetime"		"0"
+			"selected"		"template://gamepad_joystick.vdf"
+		}
+		"107100"
+		{
+			"usetime"		"631.1689453125"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"caesar 3"
+		{
+			"usetime"		"447.8125"
+		}
+		"282070"
+		{
+			"usetime"		"2712.21826171875"
+			"selected"		"template://gamepad_joystick.vdf"
+		}
+		"70"
+		{
+			"usetime"		"638.3125"
+			"selected"		"workshop://687096170"
+		}
+		"387990"
+		{
+			"usetime"		"100751.2578125"
+			"selected"		"workshop://651870787"
+		}
+		"221810"
+		{
+			"usetime"		"22291.623046875"
+			"selected"		"template://gamepad_joystick.vdf"
+		}
+		"322330"
+		{
+			"usetime"		"7213.0478515625"
+			"selected"		"workshop://558316845"
+		}
+		"17390"
+		{
+			"usetime"		"41725.125"
+			"selected"		"workshop://672190303"
+		}
+		"33230"
+		{
+			"usetime"		"141.84375"
+			"selected"		"workshop://582991975"
+		}
+		"8930"
+		{
+			"usetime"		"201.328125"
+			"selected"		"workshop://523551908"
+		}
+		"233290"
+		{
+			"usetime"		"0"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"285900"
+		{
+			"usetime"		"29524.890625"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"292030"
+		{
+			"usetime"		"17852.80859375"
+			"selected"		"workshop://693366303"
+		}
+		"220"
+		{
+			"usetime"		"193.29833984375"
+			"selected"		"workshop://577270807"
+		}
+		"252950"
+		{
+			"usetime"		"64302.98046875"
+			"selected"		"workshop://705009334"
+		}
+		"26900"
+		{
+			"usetime"		"602.16796875"
+			"selected"		"workshop://697812695"
+		}
+		"255710"
+		{
+			"usetime"		"3834.76416015625"
+			"selected"		"workshop://551394302"
+		}
+		"12120"
+		{
+			"usetime"		"118.634765625"
+			"selected"		"workshop://702557935"
+		}
+		"6800"
+		{
+			"usetime"		"1363.525390625"
+			"selected"		"template://wasd.vdf"
+		}
+		"201830"
+		{
+			"usetime"		"298.941162109375"
+			"selected"		"template://gamepad+mouse.vdf"
+		}
+		"80200"
+		{
+			"usetime"		"903.80859375"
+			"selected"		"template://gamepad+mouse.vdf"
+		}
+		"247080"
+		{
+			"usetime"		"1478.1953125"
+			"selected"		"workshop://528158482"
+		}
+		"377160"
+		{
+			"usetime"		"294705.03125"
+			"selected"		"workshop://551519706"
+			"enablerumble"		"1"
+			"rumbleintensity"		"320"
+		}
+		"200510"
+		{
+			"usetime"		"1873.921630859375"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"266840"
+		{
+			"usetime"		"15633.78125"
+			"selected"		"workshop://578363838"
+		}
+		"388880"
+		{
+			"usetime"		"9468.0625"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"275850"
+		{
+			"usetime"		"58401.45703125"
+			"selected"		"workshop://743035477"
+		}
+		"stepmania 5"
+		{
+			"usetime"		"1217.5703125"
+		}
+		"22000"
+		{
+			"usetime"		"783.8134765625"
+			"selected"		"workshop://578734346"
+		}
+		"17410"
+		{
+			"usetime"		"11863.6435546875"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"409720"
+		{
+			"usetime"		"0"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"247020"
+		{
+			"usetime"		"0"
+			"selected"		"workshop://535611661"
+		}
+		"359580"
+		{
+			"usetime"		"0"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"224500"
+		{
+			"usetime"		"178.453125"
+			"selected"		"workshop://576776511"
+		}
+		"409710"
+		{
+			"usetime"		"0"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"8850"
+		{
+			"usetime"		"0"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"8870"
+		{
+			"usetime"		"0"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"388210"
+		{
+			"usetime"		"0"
+			"selected"		"template://gamepad_joystick.vdf"
+		}
+		"443810"
+		{
+			"usetime"		"19400.234375"
+			"selected"		"template://gamepad_joystick.vdf"
+		}
+		"362680"
+		{
+			"usetime"		"20308.787109375"
+			"selected"		"workshop://802433765"
+		}
+		"238460"
+		{
+			"usetime"		"1176.375"
+			"selected"		"template://gamepad_joystick.vdf"
+		}
+		"289650"
+		{
+			"usetime"		"24172.859375"
+			"selected"		"workshop://809565463"
+		}
+		"220780"
+		{
+			"usetime"		"1950.61328125"
+			"selected"		"template://gamepad_fps.vdf"
+		}
+		"22600"
+		{
+			"usetime"		"1848.625"
+			"selected"		"workshop://578094525"
+		}
+		"413090"
+		{
+			"usetime"		"0"
+			"selected"		"workshop://754616467"
+		}
+		"413080"
+		{
+			"usetime"		"0"
+			"selected"		"workshop://650764041"
+		}
+		"443510"
+		{
+			"usetime"		"0"
+			"selected"		"workshop://759217323"
+		}
+		"304430"
+		{
+			"usetime"		"13333.4111328125"
+		}
+		"12210"
+		{
+			"usetime"		"3.6875"
+		}
+		"359230"
+		{
+			"usetime"		"822.953125"
+		}
+		"214560"
+		{
+			"usetime"		"1959.03125"
+		}
+		"22230"
+		{
+			"usetime"		"2286.340087890625"
+		}
+		"10150"
+		{
+			"usetime"		"58445.765625"
+		}
+		"115320"
+		{
+			"usetime"		"114.74609375"
+		}
+		"212680"
+		{
+			"usetime"		"848.34521484375"
+		}
+		"219850"
+		{
+			"usetime"		"137.241943359375"
+		}
+		"475550"
+		{
+			"usetime"		"261.03759765625"
+		}
+		"391540"
+		{
+			"usetime"		"3223.3876953125"
+		}
+		"242050"
+		{
+			"usetime"		"25305.0234375"
+		}
+		"57690"
+		{
+			"usetime"		"1278.418701171875"
+		}
+		"6830"
+		{
+			"usetime"		"2782.268798828125"
+		}
+		"26800"
+		{
+			"usetime"		"0"
+		}
+		"6840"
+		{
+			"usetime"		"17.0859375"
+		}
+		"274190"
+		{
+			"usetime"		"49993.65625"
+		}
+		"314160"
+		{
+			"usetime"		"3799.015625"
+		}
+		"271590"
+		{
+			"usetime"		"37462.56640625"
+		}
+		"13570"
+		{
+			"usetime"		"498.4375"
+		}
+		"385710"
+		{
+			"usetime"		"733.9296875"
+		}
+		"462780"
+		{
+			"usetime"		"0"
+		}
+		"227200"
+		{
+			"usetime"		"0"
+		}
+		"315460"
+		{
+			"usetime"		"3027.771484375"
+		}
+		"524220"
+		{
+			"usetime"		"7862.09130859375"
+		}
+		"536220"
+		{
+			"usetime"		"0"
+		}
+		"429570"
+		{
+			"usetime"		"0"
+		}
+		"322500"
+		{
+			"usetime"		"10255.1376953125"
+		}
+		"220200"
+		{
+			"usetime"		"908.6875"
+		}
+		"203140"
+		{
+			"usetime"		"947.0625"
+		}
+		"676820"
+		{
+			"usetime"		"907.96875"
+		}
+	}
+	"controller"
+	{
+		"SerialNumbersSent"
+		{
+			"1083732665040"		"1"
+		}
+	}
+	"controller_migration"		"11"
+}
