@@ -1,0 +1,60 @@
+[submodule "bin"]
+	path = bin
+	url = git@github.com:amatiasq/bin
+[submodule "repos/amatiasq.github.io"]
+	path = repos/amatiasq.github.io
+	url = git@github.com:amatiasq/amatiasq.github.io
+[submodule "repos/amq-tools"]
+	path = repos/amq-tools
+	url = git@github.com:amatiasq/amq-tools
+[submodule "repos/eslint-plugin-sort-imports"]
+	path = repos/eslint-plugin-sort-imports
+	url = git@github.com:amatiasq/eslint-plugin-sort-imports
+[submodule "repos/glib"]
+	path = repos/glib
+	url = git@github.com:amatiasq/glib
+[submodule "repos/import-sort"]
+	path = repos/import-sort
+	url = git@github.com:amatiasq/import-sort
+[submodule "repos/import-sort-style-module-compact"]
+	path = repos/import-sort-style-module-compact
+	url = git@github.com:amatiasq/import-sort-style-module-compact
+[submodule "repos/isometric-experiment"]
+	path = repos/isometric-experiment
+	url = git@github.com:amatiasq/isometric-experiment
+[submodule "repos/jsbase"]
+	path = repos/jsbase
+	url = git@github.com:amatiasq/jsbase
+[submodule "repos/lulas"]
+	path = repos/lulas
+	url = git@github.com:amatiasq/lulas
+[submodule "repos/notes"]
+	path = repos/notes
+	url = git@github.com:amatiasq/notes
+[submodule "repos/pathfinding"]
+	path = repos/pathfinding
+	url = git@github.com:amatiasq/pathfinding
+[submodule "repos/signature.js"]
+	path = repos/signature.js
+	url = git@github.com:amatiasq/signature.js
+[submodule "repos/snippets"]
+	path = repos/snippets
+	url = git@github.com:amatiasq/snippets
+[submodule "repos/streams"]
+	path = repos/streams
+	url = git@github.com:amatiasq/streams
+[submodule "repos/taleza"]
+	path = repos/taleza
+	url = git@github.com:amatiasq/taleza
+[submodule "repos/term"]
+	path = repos/term
+	url = git@github.com:amatiasq/term
+[submodule "repos/vsc-sort-imports"]
+	path = repos/vsc-sort-imports
+	url = git@github.com:amatiasq/vsc-sort-imports
+[submodule "repos/wMUD"]
+	path = repos/wMUD
+	url = git@github.com:amatiasq/wMUD
+[submodule "repos/dotfiles-boilerplate"]
+	path = repos/dotfiles-boilerplate
+	url = git@github.com:amatiasq/dotfiles-boilerplate

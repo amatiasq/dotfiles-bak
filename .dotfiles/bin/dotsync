@@ -21,7 +21,7 @@ HOOK="$HOME/.dot/hooks/post-commit"
 INCLUDE="$HOME/.dotfiles/include"
 INCLUDE_DIR="$HOME/.dotfiles/include.d"
 DOT=$($HOME/.dotfiles/bin/command)
-# ERRORS=$($DOT pull 2>&1)
+ERRORS=$($DOT pull 2>&1)
 
 if [ $? -ne 0 ]; then
     echo 'Error running git pull:'
