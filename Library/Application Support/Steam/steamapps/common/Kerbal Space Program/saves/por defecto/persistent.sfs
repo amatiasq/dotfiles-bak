@@ -11,7 +11,7 @@ GAME
 	scene = 5
 	editor = None
 	flag = Squad/Flags/capsule
-	launchID = 26
+	launchID = 28
 	modded = False
 	envInfo =  - Environment Info - Unix 7FFFFFFFFFFFFFFF  Args: KSP  - 
 	versionFull = 1.3.1.1891 (OSXPlayer)
@@ -154,7 +154,7 @@ GAME
 	{
 		name = ContractSystem
 		scene = 7, 8, 5, 6
-		update = 23648.792855728723
+		update = 24667.883710242852
 		version = 1.3.1
 		WEIGHTS
 		{
@@ -194,64 +194,16 @@ GAME
 		{
 			CONTRACT
 			{
-				guid = 52689b0c-78d7-4c40-a2b8-9c12ecede999
-				type = PartTest
-				prestige = 0
-				seed = 1118227438
-				state = Offered
-				viewed = Read
-				agent = Rockomax Conglomerate
-				deadlineType = Floating
-				expiryType = Floating
-				values = 19315.8960745368,8228571.72775267,1871.8268485569,4913.54525432272,1946.69985752106,1,1.024133,1,41382.7394661202,0,0,0
-				part = liquidEngineMini
-				haul = False
-				dest = 1
-				sit = LANDED
-				exp = True
-				PARAM
-				{
-					name = PartTest
-					state = Incomplete
-					values = 0,0,0,0,0
-					part = liquidEngineMini
-					body = Kerbin
-					situation = LANDED
-					uniqueID = 0.34823615399572821
-					haul = False
-					repeatability = ALWAYS
-					PARAM
-					{
-						name = ReachDestination
-						state = Incomplete
-						disableOnStateChange = False
-						values = 0,0,0,0,0
-						dest = 1
-						title = 
-					}
-					PARAM
-					{
-						name = ReachSituation
-						state = Incomplete
-						disableOnStateChange = False
-						values = 0,0,0,0,0
-						sit = LANDED
-						title = 
-					}
-				}
-			}
-			CONTRACT
-			{
 				guid = 54478e45-733b-44c8-a8fe-b0b70d40a4ef
 				type = PartTest
 				prestige = 0
 				seed = 1943937633
-				state = Offered
-				viewed = Seen
+				state = Active
+				viewed = Read
 				agent = O.M.B. Demolition Enterprises
 				deadlineType = Floating
 				expiryType = Floating
-				values = 21600,9201600,5400,14174.9993562698,5669.99974250793,2,3.809524,3,43989.4828203013,0,0,0
+				values = 21600,9201600,5400,14174.9993562698,5669.99974250793,2,3.809524,3,43989.4828203013,24648.1437102424,9226248.14371024,0
 				part = stackDecoupler
 				haul = False
 				dest = 1
@@ -290,50 +242,25 @@ GAME
 			}
 			CONTRACT
 			{
-				guid = 93f11890-f5da-4888-8d34-f62fc29475eb
-				type = PartTest
+				guid = 26ebcec9-a6da-4d09-af2e-c1ff765ddaaa
+				type = CollectScience
 				prestige = 0
-				seed = 1241048905
+				seed = -1356265113
 				state = Offered
-				viewed = Read
-				agent = O.M.B. Demolition Enterprises
+				viewed = Seen
+				agent = Maxo Construction Toys
 				deadlineType = Floating
 				expiryType = Floating
-				values = 43200,9201600,1800,4724.99978542328,1889.99991416931,1,0.952381,1,65984.2579716769,0,0,0
-				part = radialDecoupler
-				haul = False
-				dest = 1
-				sit = LANDED
-				exp = False
+				values = 43200,46008000,7650,18700,7650,3,5,3,67857.6437102426,0,0,0
+				body = 1
+				location = Space
 				PARAM
 				{
-					name = PartTest
+					name = CollectScience
 					state = Incomplete
 					values = 0,0,0,0,0
-					part = radialDecoupler
-					body = Kerbin
-					situation = LANDED
-					uniqueID = 0.75038768898248098
-					haul = False
-					repeatability = ALWAYS
-					PARAM
-					{
-						name = ReachDestination
-						state = Incomplete
-						disableOnStateChange = False
-						values = 0,0,0,0,0
-						dest = 1
-						title = 
-					}
-					PARAM
-					{
-						name = ReachSituation
-						state = Incomplete
-						disableOnStateChange = False
-						values = 0,0,0,0,0
-						sit = LANDED
-						title = 
-					}
+					body = 1
+					location = Space
 				}
 			}
 			CONTRACT
@@ -342,12 +269,12 @@ GAME
 				type = SurveyContract
 				prestige = 0
 				seed = 748523799
-				state = Offered
-				viewed = Seen
+				state = Active
+				viewed = Read
 				agent = Maxo Construction Toys
 				deadlineType = Floating
 				expiryType = Floating
-				values = 43200,46008000,30000,53000,30000,0,9,9,64762.0460636917,0,0,0
+				values = 43200,46008000,30000,53000,30000,0,9,9,64762.0460636917,24648.1437102424,46032648.1437102,0
 				targetBody = 1
 				centerLatitude = -37.819145451120001
 				centerLongitude = -58.218936155652145
@@ -428,12 +355,12 @@ GAME
 				type = SurveyContract
 				prestige = 0
 				seed = -254783865
-				state = Offered
+				state = Active
 				viewed = Read
 				agent = Periapsis Rocket Supplies Co
 				deadlineType = Floating
 				expiryType = Floating
-				values = 43200,46008000,30000,53000,30000,0,9,9,62631.0728784201,0,0,0
+				values = 43200,46008000,30000,53000,30000,0,9,9,62631.0728784201,24648.1437102424,46032648.1437102,0
 				targetBody = 1
 				centerLatitude = 1.6631087664553417
 				centerLongitude = -79.858481690905592
@@ -506,6 +433,72 @@ GAME
 					wpLongitude = -78.293755996976657
 					wpLandlocked = False
 					wpNavigationId = 493dc266-ea6d-49be-83e1-8354da9503bc
+				}
+			}
+			CONTRACT
+			{
+				guid = e98b92bb-05a2-4191-9880-b7e66ff920f8
+				type = PartTest
+				prestige = 0
+				seed = -1417886723
+				state = Offered
+				viewed = Seen
+				agent = Kerbodyne
+				deadlineType = Floating
+				expiryType = Floating
+				values = 43200,9201600,6750,16875,6750,2,4,3,67864.8837102428,0,0,0
+				part = MassiveBooster
+				haul = True
+				dest = 1
+				sit = FLYING
+				exp = True
+				PARAM
+				{
+					name = PartTest
+					state = Incomplete
+					values = 0,0,0,0,0
+					part = MassiveBooster
+					body = Kerbin
+					situation = FLYING
+					uniqueID = 0.801744173654236
+					haul = True
+					repeatability = ALWAYS
+				}
+				PARAM
+				{
+					name = ReachDestination
+					state = Incomplete
+					disableOnStateChange = False
+					values = 0,0,0,0,0
+					dest = 1
+					title = 
+				}
+				PARAM
+				{
+					name = ReachSituation
+					state = Incomplete
+					disableOnStateChange = False
+					values = 0,0,0,0,0
+					sit = FLYING
+					title = 
+				}
+				PARAM
+				{
+					name = ReachAltitudeEnvelope
+					state = Incomplete
+					disableOnStateChange = False
+					values = 0,0,0,0,0
+					minAlt = 14000
+					maxAlt = 20000
+				}
+				PARAM
+				{
+					name = ReachSpeedEnvelope
+					state = Incomplete
+					disableOnStateChange = False
+					values = 0,0,0,0,0
+					minSpd = 60
+					maxSpd = 260
 				}
 			}
 			CONTRACT
@@ -673,7 +666,7 @@ GAME
 				prestige = 1
 				seed = -1929793937
 				state = Offered
-				viewed = Seen
+				viewed = Read
 				agent = C7 Aerospace Division
 				deadlineType = Floating
 				expiryType = Floating
@@ -782,57 +775,109 @@ GAME
 			}
 			CONTRACT
 			{
-				guid = b47e7b8a-58d2-4775-aa14-0f53367d63c7
-				type = TourismContract
+				guid = ba27e1a9-5f94-4e29-b01d-e558ee0a471a
+				type = SurveyContract
 				prestige = 1
-				seed = -875951215
-				state = Active
+				seed = -932712017
+				state = Offered
 				viewed = Read
-				agent = C7 Aerospace Division
+				agent = Sean's Cannery
 				deadlineType = Floating
 				expiryType = Floating
-				values = 108000,46008000,0,0,0,0,25,12,108863.179940185,22926.5356987306,46030926.5356987,0
-				preposition = justo aquí en Kerbin
-				homeDestinations = True
-				isGeeAdventure = False
-				tourists = Podcal Kerman|Chadnie Kerman
+				values = 20377.3568630219,43403770.1182365,39750.0023245811,77247.5061917306,41250.0008940697,0,10,11,45004.2005732638,0,0,0
+				targetBody = 1
+				centerLatitude = -0.4479816969840511
+				centerLongitude = -74.870165757161686
+				dataName = observacionales^pn
+				anomalyName = inconsistencias^pf
+				reportName = informes^pm
+				locationName = Kerbin cerca de Peligro de Bob
+				focusedSurvey = False
+				targetBand = GROUND
+				contextual = False
 				PARAM
 				{
-					name = KerbalTourParameter
+					name = SurveyWaypointParameter
 					state = Incomplete
-					disableOnStateChange = False
-					allowPartialFailure = True
-					values = 12188,0,0,0,0
-					kerbalName = Podcal Kerman
-					kerbalGender = Male
-					PARAM
-					{
-						name = KerbalDestinationParameter
-						state = Incomplete
-						values = 4062,0,0,0,0
-						targetBody = 1
-						targetType = Suborbit
-						kerbalName = Podcal Kerman
-					}
+					values = 9000,0,4,4,0
+					targetBody = 1
+					actionDescription = Realizar un informe de EVA
+					experiment = evaReport
+					flightThreshold = 17500
+					band = 1
+					clusterState = FULL
+					verified = True
+					contextual = False
+					wpSeed = -1940806182
+					wpIndex = 0
+					wpTexture = eva
+					wpLatitude = -0.3929512402767894
+					wpLongitude = -74.996392280721679
+					wpLandlocked = True
+					wpNavigationId = 529501c7-6ce6-48cc-ab79-36a19e956641
 				}
 				PARAM
 				{
-					name = KerbalTourParameter
+					name = SurveyWaypointParameter
 					state = Incomplete
-					disableOnStateChange = False
-					allowPartialFailure = True
-					values = 12188,0,0,0,0
-					kerbalName = Chadnie Kerman
-					kerbalGender = Female
-					PARAM
-					{
-						name = KerbalDestinationParameter
-						state = Incomplete
-						values = 4062,0,0,0,0
-						targetBody = 1
-						targetType = Suborbit
-						kerbalName = Chadnie Kerman
-					}
+					values = 9000,0,4,4,0
+					targetBody = 1
+					actionDescription = Realizar un informe de EVA
+					experiment = evaReport
+					flightThreshold = 16900
+					band = 1
+					clusterState = FULL
+					verified = True
+					contextual = False
+					wpSeed = -1940806182
+					wpIndex = 1
+					wpTexture = eva
+					wpLatitude = -0.68430112789592934
+					wpLongitude = -74.896157269706137
+					wpLandlocked = True
+					wpNavigationId = dbefa301-9602-40bd-a22b-859d88b4784f
+				}
+				PARAM
+				{
+					name = SurveyWaypointParameter
+					state = Incomplete
+					values = 9000,0,4,4,0
+					targetBody = 1
+					actionDescription = Realizar un informe de EVA
+					experiment = evaReport
+					flightThreshold = 19400
+					band = 1
+					clusterState = FULL
+					verified = True
+					contextual = False
+					wpSeed = -1940806182
+					wpIndex = 2
+					wpTexture = eva
+					wpLatitude = -0.14800836400430389
+					wpLongitude = -74.958434301747175
+					wpLandlocked = True
+					wpNavigationId = 537568dc-a670-4695-8a6c-a591de5adb77
+				}
+				PARAM
+				{
+					name = SurveyWaypointParameter
+					state = Incomplete
+					values = 9000,0,4,4,0
+					targetBody = 1
+					actionDescription = Realizar un informe de EVA
+					experiment = evaReport
+					flightThreshold = 17300
+					band = 1
+					clusterState = FULL
+					verified = True
+					contextual = False
+					wpSeed = -1940806182
+					wpIndex = 3
+					wpTexture = eva
+					wpLatitude = -0.43630589706254735
+					wpLongitude = -75.053341401302404
+					wpLandlocked = True
+					wpNavigationId = 541b87f9-9162-4de1-9984-2b428831964a
 				}
 			}
 			CONTRACT
@@ -1968,6 +2013,163 @@ GAME
 					wpNavigationId = be929552-9c62-483f-b311-ecfb656d72b4
 				}
 			}
+			CONTRACT_FINISHED
+			{
+				guid = b47e7b8a-58d2-4775-aa14-0f53367d63c7
+				type = TourismContract
+				prestige = 1
+				seed = -875951215
+				state = Completed
+				viewed = Read
+				agent = C7 Aerospace Division
+				deadlineType = Floating
+				expiryType = Floating
+				values = 108000,46008000,0,0,0,0,25,12,108863.179940185,22926.5356987306,46030926.5356987,0
+				preposition = justo aquí en Kerbin
+				homeDestinations = True
+				isGeeAdventure = False
+				tourists = Podcal Kerman|Chadnie Kerman
+				PARAM
+				{
+					name = KerbalTourParameter
+					state = Complete
+					disableOnStateChange = False
+					allowPartialFailure = True
+					values = 0,0,0,0,0
+					kerbalName = Podcal Kerman
+					kerbalGender = Male
+					PARAM
+					{
+						name = KerbalDestinationParameter
+						enabled = False
+						state = Complete
+						values = 0,0,0,0,0
+						targetBody = 1
+						targetType = Suborbit
+						kerbalName = Podcal Kerman
+					}
+				}
+				PARAM
+				{
+					name = KerbalTourParameter
+					state = Complete
+					disableOnStateChange = False
+					allowPartialFailure = True
+					values = 0,0,0,0,0
+					kerbalName = Chadnie Kerman
+					kerbalGender = Female
+					PARAM
+					{
+						name = KerbalDestinationParameter
+						enabled = False
+						state = Complete
+						values = 0,0,0,0,0
+						targetBody = 1
+						targetType = Suborbit
+						kerbalName = Chadnie Kerman
+					}
+				}
+			}
+			CONTRACT_FINISHED
+			{
+				guid = 52689b0c-78d7-4c40-a2b8-9c12ecede999
+				type = PartTest
+				prestige = 0
+				seed = 1118227438
+				state = Completed
+				viewed = Read
+				agent = Rockomax Conglomerate
+				deadlineType = Floating
+				expiryType = Floating
+				values = 19315.8960745368,8228571.72775267,1871.8268485569,4913.54525432272,1946.69985752106,1,1.024133,1,41382.7394661202,24648.1437102424,8253219.87146291,0
+				part = liquidEngineMini
+				haul = False
+				dest = 1
+				sit = LANDED
+				exp = True
+				PARAM
+				{
+					name = PartTest
+					enabled = False
+					state = Complete
+					values = 0,0,0,0,0
+					part = liquidEngineMini
+					body = Kerbin
+					situation = LANDED
+					uniqueID = 0.34823615399572821
+					haul = False
+					repeatability = ALWAYS
+					tested = 1756983325
+					PARAM
+					{
+						name = ReachDestination
+						state = Complete
+						disableOnStateChange = False
+						values = 0,0,0,0,0
+						dest = 1
+						title = 
+					}
+					PARAM
+					{
+						name = ReachSituation
+						state = Complete
+						disableOnStateChange = False
+						values = 0,0,0,0,0
+						sit = LANDED
+						title = 
+					}
+				}
+			}
+			CONTRACT_FINISHED
+			{
+				guid = 93f11890-f5da-4888-8d34-f62fc29475eb
+				type = PartTest
+				prestige = 0
+				seed = 1241048905
+				state = Completed
+				viewed = Read
+				agent = O.M.B. Demolition Enterprises
+				deadlineType = Floating
+				expiryType = Floating
+				values = 43200,9201600,1800,4724.99978542328,1889.99991416931,1,0.952381,1,65984.2579716769,24648.1437102424,9226248.14371024,0
+				part = radialDecoupler
+				haul = False
+				dest = 1
+				sit = LANDED
+				exp = False
+				PARAM
+				{
+					name = PartTest
+					enabled = False
+					state = Complete
+					values = 0,0,0,0,0
+					part = radialDecoupler
+					body = Kerbin
+					situation = LANDED
+					uniqueID = 0.75038768898248098
+					haul = False
+					repeatability = ALWAYS
+					tested = 1230588934
+					PARAM
+					{
+						name = ReachDestination
+						state = Complete
+						disableOnStateChange = False
+						values = 0,0,0,0,0
+						dest = 1
+						title = 
+					}
+					PARAM
+					{
+						name = ReachSituation
+						state = Complete
+						disableOnStateChange = False
+						values = 0,0,0,0,0
+						sit = LANDED
+						title = 
+					}
+				}
+			}
 		}
 	}
 	SCENARIO
@@ -1980,7 +2182,7 @@ GAME
 	{
 		name = Funding
 		scene = 7, 8, 5, 6
-		funds = 336664.74653203273
+		funds = 438268.85467931925
 	}
 	SCENARIO
 	{
@@ -2107,7 +2309,7 @@ GAME
 	{
 		name = ResearchAndDevelopment
 		scene = 7, 8, 5, 6
-		sci = 4.92441559
+		sci = 7.67434263
 		Tech
 		{
 			id = start
@@ -2237,9 +2439,9 @@ GAME
 			id = recovery@KerbinSubOrbited
 			title = Recuperación de una nave traída de vuelta de un vuelo suborbital sobre Kerbin
 			dsc = 1
-			scv = 0.02777775
+			scv = 0.00462959195
 			sbv = 8
-			sci = 9.33333397
+			sci = 9.5555563
 			cap = 9.60000038
 		}
 		Science
@@ -2352,7 +2554,7 @@ GAME
 	{
 		name = Reputation
 		scene = 7, 8, 5, 6
-		rep = 79.8308411
+		rep = 105.419617
 	}
 	SCENARIO
 	{
@@ -2530,7 +2732,7 @@ GAME
 	FLIGHTSTATE
 	{
 		version = 1.3.1
-		UT = 23650.512855728761
+		UT = 24675.503710243018
 		activeVessel = 0
 		mapViewFiltering = -1026
 		commNetUIModeTracking = Network
@@ -2565,13 +2767,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 299999.93566742953
-				ECC = 0.99999999999999989
-				INC = 0.28108064778305103
+				SMA = NaN
+				ECC = 1
+				INC = 0.28108064778564429
 				LPE = 270
-				LAN = 326.61611143669336
-				MNA = 3.1415926207170166
-				EPH = 23648.692855728721
+				LAN = 343.64182346881722
+				MNA = 0
+				EPH = 24667.843710242851
 				REF = 1
 			}
 			PART
@@ -2712,11 +2914,11 @@ GAME
 			{
 				SMA = NaN
 				ECC = 1
-				INC = 0.28091720137405535
+				INC = 0.28091720137665011
 				LPE = 270
-				LAN = 326.61634010695019
+				LAN = 343.64205213907394
 				MNA = 0
-				EPH = 23648.692855728721
+				EPH = 24667.843710242851
 				REF = 1
 			}
 			PART
@@ -2855,13 +3057,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 299999.93622270628
-				ECC = 0.99999999999999989
-				INC = 0.2808198143841219
+				SMA = NaN
+				ECC = 1
+				INC = 0.28081981438801551
 				LPE = 270
-				LAN = 326.61606083792606
-				MNA = -3.1415926207170166
-				EPH = 23648.692855728721
+				LAN = 343.64177287004986
+				MNA = 0
+				EPH = 24667.843710242851
 				REF = 1
 			}
 			PART
@@ -3002,11 +3204,11 @@ GAME
 			{
 				SMA = NaN
 				ECC = 1
-				INC = 0.28101037078778263
+				INC = 0.28101037079037661
 				LPE = 270
-				LAN = 326.61591009592019
+				LAN = 343.64162212804479
 				MNA = 0
-				EPH = 23648.692855728721
+				EPH = 24667.843710242851
 				REF = 1
 			}
 			PART
@@ -3142,7 +3344,7 @@ GAME
 			extraXP = 0
 			CAREER_LOG
 			{
-				flight = 21
+				flight = 23
 				0 = Flight,Kerbin
 				0 = Land,Kerbin
 				0 = Recover
@@ -3202,10 +3404,15 @@ GAME
 				20 = Flight,Kerbin
 				20 = Land,Kerbin
 				20 = Recover
+				21 = Flight,Kerbin
+				21 = Suborbit,Kerbin
+				21 = Land,Kerbin
+				21 = Recover
+				22 = Recover
 			}
 			FLIGHT_LOG
 			{
-				flight = 21
+				flight = 23
 			}
 		}
 		KERBAL
@@ -3556,62 +3763,6 @@ GAME
 		}
 		KERBAL
 		{
-			name = Podcal Kerman
-			gender = Male
-			type = Tourist
-			trait = Tourist
-			brave = 0.881714463
-			dumb = 0.173801854
-			badS = False
-			veteran = False
-			tour = False
-			state = Available
-			inactive = False
-			inactiveTimeEnd = 0
-			gExperienced = 0
-			outDueToG = False
-			ToD = 0
-			idx = -1
-			extraXP = 0
-			CAREER_LOG
-			{
-				flight = 0
-			}
-			FLIGHT_LOG
-			{
-				flight = 0
-			}
-		}
-		KERBAL
-		{
-			name = Chadnie Kerman
-			gender = Female
-			type = Tourist
-			trait = Tourist
-			brave = 0.294064075
-			dumb = 0.754908562
-			badS = False
-			veteran = False
-			tour = False
-			state = Available
-			inactive = False
-			inactiveTimeEnd = 0
-			gExperienced = 0
-			outDueToG = False
-			ToD = 0
-			idx = -1
-			extraXP = 0
-			CAREER_LOG
-			{
-				flight = 0
-			}
-			FLIGHT_LOG
-			{
-				flight = 0
-			}
-		}
-		KERBAL
-		{
 			name = Orbin Kerman
 			gender = Female
 			type = Unowned
@@ -3641,6 +3792,54 @@ GAME
 	}
 	MESSAGESYSTEM
 	{
-		flash = False
+		flash = True
+		MESSAGE
+		{
+			title = Contrato finalizado
+			message = <b>Comprueba Separador Radial TT-38K aterrizado en Kerbin.</b>~n~n¡Ensayo completado! Tenemos buenos datos ¡Gracias!~n~n<b><color=#8BED8B>Recompensas por finalización:</color></b> ~n<color=#B4D455><sprite="CurrencySpriteAsset" name="Funds" tint=1>  4,725   </color>~n<color=#6DCFF6><sprite="CurrencySpriteAsset" name="Science" tint=1> 1 <color=#caff00>(+0)</color>  </color>~n<color=#E0D503><sprite="CurrencySpriteAsset" name="Reputation" tint=1> 1 <color=#feb200>(0)</color>  </color>~n~n
+			color = 2
+			icon = 3
+			read = False
+		}
+		MESSAGE
+		{
+			title = Contrato finalizado
+			message = <b>Comprueba Motor de Combustible Líquido 48-7S "Spark" aterrizado en Kerbin.</b>~n~n¡Ensayo completado! Tenemos buenos datos ¡Gracias!~n~n<b><color=#8BED8B>Recompensas por finalización:</color></b> ~n<color=#B4D455><sprite="CurrencySpriteAsset" name="Funds" tint=1>  4,914   </color>~n<color=#6DCFF6><sprite="CurrencySpriteAsset" name="Science" tint=1> 1 <color=#caff00>(+0)</color>  </color>~n<color=#E0D503><sprite="CurrencySpriteAsset" name="Reputation" tint=1> 1 <color=#feb200>(0)</color>  </color>~n~n
+			color = 2
+			icon = 3
+			read = False
+		}
+		MESSAGE
+		{
+			title = Contrato finalizado
+			message = <b>Trasborda a dos turistas de manera segura hasta sus destinos y de regreso.</b>~n~n¡El paseo ha sido un éxito! Podcal y Chadnie solo tiene grandes cosas que decir acerca del viaje y trae de recuerdo muchísimas fotos.~n~n<b><color=#8BED8B>Recompensas por finalización:</color></b> ~n<color=#6DCFF6><sprite="CurrencySpriteAsset" name="Science" tint=1> <color=#caff00>(+0)</color>  </color>~n<color=#E0D503><sprite="CurrencySpriteAsset" name="Reputation" tint=1> 24 <color=#feb200>(-1)</color>  </color>~n~n
+			color = 2
+			icon = 3
+			read = False
+		}
+		MESSAGE
+		{
+			title = Parámetro del Contrato Cumplido
+			message = <b>Trasborda a dos turistas de manera segura hasta sus destinos y de regreso.</b>~n~n¡'Itinerario de viaje de Podcal' completado!~n~n<color=#B4D455><sprite="CurrencySpriteAsset" name="Funds" tint=1> 12,188   </color>
+			color = 2
+			icon = 3
+			read = False
+		}
+		MESSAGE
+		{
+			title = Parámetro del Contrato Cumplido
+			message = <b>Trasborda a dos turistas de manera segura hasta sus destinos y de regreso.</b>~n~n¡'Itinerario de viaje de Chadnie' completado!~n~n<color=#B4D455><sprite="CurrencySpriteAsset" name="Funds" tint=1> 12,188   </color>
+			color = 2
+			icon = 3
+			read = False
+		}
+		MESSAGE
+		{
+			title = Parámetro del Contrato Cumplido
+			message = <b>Trasborda a dos turistas de manera segura hasta sus destinos y de regreso.</b>~n~n¡'Vuelo espacial suborbital en Kerbin' completado!~n~n<color=#B4D455><sprite="CurrencySpriteAsset" name="Funds" tint=1> 4,062   </color>
+			color = 2
+			icon = 3
+			read = False
+		}
 	}
 }
