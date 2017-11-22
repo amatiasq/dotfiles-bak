@@ -2,6 +2,7 @@
 {
     "editor.tabSize": 4,
     "editor.rulers": [ 80, 120 ],
+    "files.trimTrailingWhitespace": true,
     "typescript.tsdk": "/usr/local/lib/node_modules/typescript/lib",
     "sort-imports.on-save": false,
     "window.zoomLevel": 1
