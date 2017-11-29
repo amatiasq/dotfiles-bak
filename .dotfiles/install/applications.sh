@@ -16,6 +16,7 @@ brew cask install spotify
 brew cask install vlc
 brew cask install steam
 brew cask install minecraft
+brew cask install discord
 
 # Utilities
 brew cask install alfred
