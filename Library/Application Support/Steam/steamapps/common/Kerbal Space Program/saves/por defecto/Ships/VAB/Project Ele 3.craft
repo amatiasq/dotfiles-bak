@@ -2,7 +2,7 @@ ship = Project Ele 3
 version = 1.3.1
 description = 
 type = VAB
-size = 6.7598362,18.5423012,6.75984001
+size = 6.75983334,18.5423012,6.75983715
 PART
 {
 	part = science.module_4294626278
@@ -1798,7 +1798,7 @@ PART
 	istg = 1
 	resPri = 0
 	dstg = 2
-	sidx = 0
+	sidx = 1
 	sqor = 1
 	sepI = 0
 	attm = 0
@@ -1982,7 +1982,7 @@ PART
 	istg = 1
 	resPri = 0
 	dstg = 3
-	sidx = 1
+	sidx = 0
 	sqor = 1
 	sepI = 1
 	attm = 1
@@ -2078,7 +2078,7 @@ PART
 	pos = -0.98965323,17.8736477,0.910170555
 	attPos = 0,0,0
 	attPos0 = -0.787626386,-0.0425167084,-8.38190317E-08
-	rot = -8.47032947E-22,-0.130526319,-2.56182884E-21,0.991444886
+	rot = -7.41153829E-22,-0.130526319,-2.13831237E-21,0.991444886
 	attRot = 0,0,0,1
 	attRot0 = -7.94093388E-23,-8.94069672E-08,1.77635705E-15,1
 	mir = 1,1,1
@@ -2205,7 +2205,7 @@ PART
 	pos = -0.98965323,20.7175274,0.910170555
 	attPos = 0,0,0
 	attPos0 = -3.31391857E-15,0.965690613,-8.87961844E-16
-	rot = 5.16160702E-21,-0.707106769,-1.98523347E-21,0.707106829
+	rot = 4.84396967E-21,-0.707106769,-1.561717E-21,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = -2.51643095E-23,0.707106829,-1.85619589E-22,0.707106829
 	mir = 1,1,1
@@ -2240,7 +2240,7 @@ PART
 {
 	part = strutConnector_4294064716
 	partName = CompoundPart
-	pos = -1.15405476,20.3135357,0.296615899
+	pos = -1.15405428,20.3135357,0.296616316
 	attPos = 0,0,0
 	attPos0 = 0.164399907,0.561698914,0.613548636
 	rot = 3.14237383E-08,0.608761668,-4.09522265E-08,-0.79335326
@@ -2315,7 +2315,7 @@ PART
 	pos = -0.98965323,15.9954576,0.910170555
 	attPos = 0,0,0
 	attPos0 = -6.67266975E-15,-1.87818909,2.98291633E-22
-	rot = 5.04249301E-21,-0.707106769,-1.77347523E-21,0.707106769
+	rot = 4.83073478E-21,-0.707106769,-1.34995876E-21,0.707106769
 	attRot = 0,0,0,1
 	attRot0 = 1.68878762E-22,-0.608761311,-4.71857769E-22,0.793353379
 	mir = 1,1,1
@@ -2379,7 +2379,7 @@ PART
 	pos = -0.98965323,14.1811323,0.910170555
 	attPos = 0,0,0
 	attPos0 = -1.66828962E-15,-1.81432533,6.22614151E-15
-	rot = 5.14837213E-21,-0.707106769,-1.87935435E-21,0.707106769
+	rot = 4.83073478E-21,-0.707106769,-1.45583788E-21,0.707106769
 	attRot = 0,0,0,1
 	attRot0 = 1.03544002E-22,2.98023224E-08,-2.12909747E-22,1
 	mir = 1,1,1
@@ -2676,7 +2676,7 @@ PART
 	istg = 1
 	resPri = 0
 	dstg = 3
-	sidx = 1
+	sidx = 0
 	sqor = 1
 	sepI = 1
 	attm = 1
@@ -3211,10 +3211,10 @@ PART
 {
 	part = strutConnector_4294490518
 	partName = CompoundPart
-	pos = -0.600184917,16.1888847,2.82222271
+	pos = -0.600183964,16.1888847,2.82222247
 	attPos = 0,0,0
 	attPos0 = -0.618729174,0.193427086,0.165788248
-	rot = 3.88994614E-09,-0.130526215,2.95474987E-08,-0.991444826
+	rot = 3.88995325E-09,-0.130526215,2.95474791E-08,-0.991444826
 	attRot = 0,0,0,1
 	attRot0 = 3.88998389E-09,-0.13052623,2.95473583E-08,-0.991444826
 	mir = 1,1,1
@@ -3283,7 +3283,7 @@ PART
 {
 	part = R8winglet_4294232540
 	partName = Part
-	pos = -0.284294367,15.9486122,3.78666496
+	pos = -0.284294009,15.9486122,3.78666353
 	attPos = 0,0,0
 	attPos0 = -0.302844256,-0.0468454361,1.13022947
 	rot = 9.42711722E-08,0.608761549,1.2285652E-07,0.793353438
@@ -3370,7 +3370,7 @@ PART
 	istg = 1
 	resPri = 0
 	dstg = 3
-	sidx = 1
+	sidx = 0
 	sqor = 1
 	sepI = 1
 	attm = 1
@@ -3628,7 +3628,7 @@ PART
 {
 	part = strutConnector_4294064532
 	partName = CompoundPart
-	pos = 1.92922056,20.3135357,2.26178789
+	pos = 1.92922008,20.3135357,2.26178646
 	attPos = 0,0,0
 	attPos0 = 0.16440019,0.561698914,0.613549054
 	rot = -4.09523224E-08,-0.793353438,-3.14237312E-08,-0.608761489
@@ -3767,7 +3767,7 @@ PART
 	pos = 1.7648133,14.1811323,1.64822781
 	attPos = 0,0,0
 	attPos0 = -4.62804834E-08,-1.81432533,1.72721144E-07
-	rot = 6.3527471E-22,0.707106769,-3.49401091E-21,0.707106829
+	rot = 6.3527471E-22,0.707106769,-3.07049443E-21,0.707106829
 	attRot = 0,0,0,1
 	attRot0 = 6.44551298E-23,-2.98023188E-08,8.39995626E-23,1
 	mir = 1,1,1
@@ -3905,7 +3905,7 @@ PART
 {
 	part = strutConnector_4294490422
 	partName = CompoundPart
-	pos = 1.93060637,16.1888847,2.26696587
+	pos = 1.93060553,16.1888847,2.26696491
 	attPos = 0,0,0
 	attPos0 = -0.618729353,0.193427086,0.165788248
 	rot = 2.3643727E-08,-0.793353438,1.81425541E-08,-0.608761549
@@ -3977,10 +3977,10 @@ PART
 {
 	part = R8winglet_4294232496
 	partName = Part
-	pos = 2.89505053,15.9486122,1.95107388
+	pos = 2.89504766,15.9486122,1.95107293
 	attPos = 0,0,0
 	attPos0 = -0.302844256,-0.0468454361,1.13023043
-	rot = 1.5353254E-07,0.991444886,2.02129584E-08,0.13052617
+	rot = 1.53532525E-07,0.991444886,2.02129495E-08,0.13052617
 	attRot = 0,0,0,1
 	attRot0 = 9.42711438E-08,0.608761489,1.22856548E-07,0.793353379
 	mir = 1,1,1
@@ -4064,7 +4064,7 @@ PART
 	istg = 1
 	resPri = 0
 	dstg = 3
-	sidx = 1
+	sidx = 0
 	sqor = 1
 	sepI = 1
 	attm = 1
@@ -4157,7 +4157,7 @@ PART
 {
 	part = fuelTank_4294065616
 	partName = Part
-	pos = 0.756608486,17.8736477,-0.0980397463
+	pos = 0.756608486,17.8736477,-0.0980391502
 	attPos = 0,0,0
 	attPos0 = -0.787626505,-0.0425167084,-1.19209261E-07
 	rot = 5.29395592E-22,0.793353438,2.31878456E-22,-0.60876137
@@ -4221,7 +4221,7 @@ PART
 {
 	part = fuelTank_4294065586
 	partName = Part
-	pos = 0.756608486,19.7518368,-0.0980397463
+	pos = 0.756608486,19.7518368,-0.0980391502
 	attPos = 0,0,0
 	attPos0 = -1.1920929E-07,1.87819004,2.13162855E-14
 	rot = 1.19114008E-22,0.707106769,0,0.707106769
@@ -4284,7 +4284,7 @@ PART
 {
 	part = noseCone_4294065556
 	partName = Part
-	pos = 0.756608486,20.7175274,-0.0980397463
+	pos = 0.756608367,20.7175274,-0.0980391502
 	attPos = 0,0,0
 	attPos0 = 5.75736614E-08,0.965690613,1.54268172E-08
 	rot = -1.05879118E-22,1.00000012,-5.29395592E-23,1.1920929E-07
@@ -4322,7 +4322,7 @@ PART
 {
 	part = strutConnector_4294064440
 	partName = CompoundPart
-	pos = 1.37015796,20.3135357,-0.262438774
+	pos = 1.37015796,20.3135357,-0.262438059
 	attPos = 0,0,0
 	attPos0 = 0.164400041,0.561698914,0.613548875
 	rot = -5.11775369E-08,-0.991444826,6.73764156E-09,0.130526185
@@ -4394,7 +4394,7 @@ PART
 {
 	part = fuelTank_4294660426
 	partName = Part
-	pos = 0.756608486,15.9954576,-0.0980397463
+	pos = 0.756608486,15.9954576,-0.0980391502
 	attPos = 0,0,0
 	attPos0 = -1.19209304E-07,-1.87818909,2.13162855E-14
 	rot = 1.05879118E-22,1.00000012,1.58818678E-22,0
@@ -4458,7 +4458,7 @@ PART
 {
 	part = liquidEngine_4294655896
 	partName = Part
-	pos = 0.756608486,14.1811323,-0.0980397463
+	pos = 0.756608367,14.1811323,-0.0980391502
 	attPos = 0,0,0
 	attPos0 = -1.54268243E-08,-1.81432533,5.75737147E-08
 	rot = 1.05879118E-22,1.00000012,1.58818678E-22,0
@@ -4599,7 +4599,7 @@ PART
 {
 	part = strutConnector_4294490326
 	partName = CompoundPart
-	pos = 1.37534547,16.1888847,-0.263827801
+	pos = 1.37534451,16.1888847,-0.263826847
 	attPos = 0,0,0
 	attPos0 = -0.618729174,0.193427086,0.165788248
 	rot = 2.95474418E-08,-0.991444826,-3.88998966E-09,0.130526215
@@ -4671,7 +4671,7 @@ PART
 {
 	part = R8winglet_4294232452
 	partName = Part
-	pos = 1.05945444,15.9486122,-1.22827172
+	pos = 1.05945373,15.9486122,-1.22827005
 	attPos = 0,0,0
 	attPos0 = -0.302843958,-0.0468454361,1.13022983
 	rot = 1.22856534E-07,0.793353438,-9.4271158E-08,-0.608761549
@@ -5412,14 +5412,6 @@ PART
 	modMass = 0
 	modSize = 0,0,0
 	link = probeCoreSphere_4294706024
-	link = batteryPack_4293885152
-	link = batteryPack_4293884670
-	link = batteryPack_4293884632
-	link = batteryPack_4293884594
-	link = batteryPack_4293884556
-	link = batteryPack_4293884518
-	link = batteryPack_4293884480
-	link = batteryPack_4293884442
 	attN = bottom,ServiceBay.125_4294108942
 	attN = top,probeCoreSphere_4294706024
 	EVENTS
@@ -5491,14 +5483,6 @@ PART
 	modCost = 0
 	modMass = 0
 	modSize = 0,0,0
-	link = batteryPack_4293883334
-	link = batteryPack_4293882612
-	link = batteryPack_4293882574
-	link = batteryPack_4293882536
-	link = batteryPack_4293882498
-	link = batteryPack_4293882460
-	link = batteryPack_4293882422
-	link = batteryPack_4293882384
 	attN = bottom,sasModule_4294647158
 	EVENTS
 	{
@@ -5648,7 +5632,7 @@ PART
 		aniState = LOCKED
 		animSwitch = True
 		animTime = 0
-		animSpeed = -5
+		animSpeed = 1
 		deployPercent = 100
 		animationIsDisabled = False
 		stagingEnabled = True
@@ -5816,12 +5800,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 2
+	istg = 3
 	resPri = 0
 	dstg = 3
-	sidx = 1
-	sqor = 2
-	sepI = 2
+	sidx = 0
+	sqor = 3
+	sepI = 3
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -5910,19 +5894,19 @@ PART
 	pos = -0.98965323,13.2068262,0.910170555
 	attPos = 0,0,0
 	attPos0 = -8.95876149E-16,-0.974306107,3.34348765E-15
-	rot = -1.32348898E-22,-2.98023224E-08,6.6174449E-24,1
+	rot = -2.64697796E-23,-2.98023224E-08,6.6174449E-24,1
 	attRot = 0,0,0,1
 	attRot0 = -4.84895739E-21,0.707106829,1.44362E-21,0.707106829
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 2
+	istg = 4
 	resPri = 0
 	dstg = 5
-	sidx = 2
-	sqor = 2
-	sepI = 2
+	sidx = 0
+	sqor = 5
+	sepI = 4
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -6014,19 +5998,19 @@ PART
 	pos = 0.0185509026,13.2068262,2.65643263
 	attPos = 0,0,0
 	attPos0 = -8.95884302E-16,-0.974306107,3.34348511E-15
-	rot = -4.65868121E-21,0.707106769,1.33672387E-21,0.707106948
+	rot = -4.76456033E-21,0.707106769,1.41613321E-21,0.707106888
 	attRot = 0,0,0,1
 	attRot0 = -4.83756992E-21,0.707106769,1.42031859E-21,0.707106829
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 2
+	istg = 4
 	resPri = 0
 	dstg = 5
-	sidx = 2
-	sqor = 2
-	sepI = 2
+	sidx = 0
+	sqor = 5
+	sepI = 4
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -6125,12 +6109,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 2
+	istg = 4
 	resPri = 0
 	dstg = 5
-	sidx = 2
-	sqor = 2
-	sepI = 2
+	sidx = 0
+	sqor = 5
+	sepI = 4
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -6219,22 +6203,22 @@ PART
 {
 	part = stackDecoupler_4294042690
 	partName = Part
-	pos = 0.756608546,13.2068262,-0.0980398655
+	pos = 0.756608367,13.2068262,-0.0980393887
 	attPos = 0,0,0
 	attPos0 = -4.13358281E-09,-0.974306107,2.45721623E-07
-	rot = 1.48230766E-21,0.707106948,4.77779522E-21,-0.707106769
+	rot = 1.37642854E-21,0.707106888,4.9366139E-21,-0.707106769
 	attRot = 0,0,0,1
 	attRot0 = -4.88253252E-21,0.707106769,1.3766421E-21,0.707106829
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 2
+	istg = 4
 	resPri = 0
 	dstg = 5
-	sidx = 2
-	sqor = 2
-	sepI = 2
+	sidx = 0
+	sqor = 5
+	sepI = 4
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -6333,12 +6317,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 4
 	resPri = 0
 	dstg = 4
-	sidx = 0
+	sidx = 1
 	sqor = 4
-	sepI = 2
+	sepI = 3
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -6452,19 +6436,19 @@ PART
 	pos = -0.98965323,9.15383148,0.910170555
 	attPos = 0,0,0
 	attPos0 = -1.39084877E-14,-4.05299473,-3.72677387E-15
-	rot = -1.32348898E-22,-2.98023224E-08,6.6174449E-24,1
+	rot = -2.64697796E-23,-2.98023224E-08,6.6174449E-24,1
 	attRot = 0,0,0,1
 	attRot0 = 0,0,0,1
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
-	sidx = 1
-	sqor = 4
-	sepI = 2
+	sidx = 0
+	sqor = 6
+	sepI = 4
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -6584,19 +6568,19 @@ PART
 	pos = 0.0185509026,9.15383148,2.65643263
 	attPos = 0,0,0
 	attPos0 = -1.39084716E-14,-4.05299473,-3.72680224E-15
-	rot = -4.44692297E-21,0.707106709,1.65436123E-21,0.707107008
+	rot = -4.65868121E-21,0.707106769,1.33672387E-21,0.707106948
 	attRot = 0,0,0,1
 	attRot0 = 1.04973557E-22,-5.96046306E-08,1.38201331E-23,1
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
-	sidx = 1
-	sqor = 4
-	sepI = 2
+	sidx = 0
+	sqor = 6
+	sepI = 4
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -6723,12 +6707,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
-	sidx = 1
-	sqor = 4
-	sepI = 2
+	sidx = 0
+	sqor = 6
+	sepI = 4
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -6845,22 +6829,22 @@ PART
 {
 	part = solidBooster1-1_4294036126
 	partName = Part
-	pos = 0.756608546,9.15383148,-0.0980399847
+	pos = 0.756608367,9.15383148,-0.0980395079
 	attPos = 0,0,0
 	attPos0 = -1.88147808E-07,-4.05299473,1.12932321E-08
-	rot = 1.48230766E-21,0.707107008,4.79103011E-21,-0.707106709
+	rot = 1.48230766E-21,0.707106948,4.83073478E-21,-0.707106769
 	attRot = 0,0,0,1
 	attRot0 = 1.43639997E-22,-5.96046306E-08,1.25703155E-22,1
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
-	sidx = 1
-	sqor = 4
-	sepI = 2
+	sidx = 0
+	sqor = 6
+	sepI = 4
 	attm = 0
 	modCost = 0
 	modMass = 0
@@ -6977,22 +6961,22 @@ PART
 {
 	part = strutConnector_4294033284
 	partName = CompoundPart
-	pos = -0.516677499,6.96319199,2.96544695
+	pos = -0.516676784,6.96319199,2.96544647
 	attPos = 0,0,0
 	attPos0 = -0.309013784,-2.1906395,-0.535227478
-	rot = -2.25920727E-09,0.258818746,-8.43148218E-09,0.965925992
+	rot = -2.25920815E-09,0.258819014,-8.4314804E-09,0.965925872
 	attRot = 0,0,0,1
 	attRot0 = 4.36445413E-09,-0.499999881,-7.55945706E-09,0.866025448
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7052,19 +7036,19 @@ PART
 	pos = -1.29866707,6.96319199,0.374943137
 	attPos = 0,0,0
 	attPos0 = -0.309013844,-2.1906395,-0.535227537
-	rot = 4.36445147E-09,-0.49999997,-7.55945795E-09,0.866025567
+	rot = 4.36445413E-09,-0.49999997,-7.55945706E-09,0.866025567
 	attRot = 0,0,0,1
 	attRot0 = 4.36445458E-09,-0.49999994,-7.55945795E-09,0.866025507
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7121,7 +7105,7 @@ PART
 {
 	part = strutConnector_4294033092
 	partName = CompoundPart
-	pos = 2.07383013,6.96319199,2.18345714
+	pos = 2.07382774,6.96319199,2.18345594
 	attPos = 0,0,0
 	attPos0 = -0.309014261,-2.1906395,-0.535228133
 	rot = -7.55945706E-09,0.866025686,-4.36445369E-09,0.499999821
@@ -7131,12 +7115,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7193,22 +7177,22 @@ PART
 {
 	part = strutConnector_4294032996
 	partName = CompoundPart
-	pos = 1.29183745,6.96319199,-0.40705514
+	pos = 1.29183626,6.96319199,-0.407053709
 	attPos = 0,0,0
 	attPos0 = -0.309014261,-2.1906395,-0.535227597
-	rot = -8.43148307E-09,0.965925992,2.25920815E-09,-0.258818746
+	rot = -8.4314804E-09,0.965925872,2.25920815E-09,-0.258819014
 	attRot = 0,0,0,1
 	attRot0 = 4.36445413E-09,-0.499999881,-7.55945706E-09,0.866025448
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7265,22 +7249,22 @@ PART
 {
 	part = strutConnector_4294032188
 	partName = CompoundPart
-	pos = -0.512308955,7.46595001,2.34994102
+	pos = -0.51230824,7.46595001,2.34994102
 	attPos = 0,0,0
 	attPos0 = 0.306491464,-1.68788147,-0.530859053
-	rot = -1.25331061E-08,0.258819103,4.67741899E-08,-0.965925932
+	rot = -1.25331043E-08,0.258819103,4.67741685E-08,-0.965925932
 	attRot = 0,0,0,1
 	attRot0 = -4.19365733E-08,0.866025388,2.42120954E-08,-0.50000006
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7337,22 +7321,22 @@ PART
 {
 	part = strutConnector_4294032096
 	partName = CompoundPart
-	pos = -0.683161855,7.46595001,0.379311085
+	pos = -0.683161855,7.46595001,0.379311323
 	attPos = 0,0,0
 	attPos0 = 0.306491405,-1.68788147,-0.530859172
-	rot = -4.19365875E-08,0.866025567,2.42120777E-08,-0.50000006
+	rot = -4.1936584E-08,0.866025448,2.42120972E-08,-0.50000006
 	attRot = 0,0,0,1
 	attRot0 = -4.1936584E-08,0.866025448,2.42120954E-08,-0.5
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7409,22 +7393,22 @@ PART
 {
 	part = strutConnector_4294032004
 	partName = CompoundPart
-	pos = 1.45832169,7.46595001,2.17908907
+	pos = 1.45832193,7.46595001,2.1790874
 	attPos = 0,0,0
 	attPos0 = 0.306491494,-1.68788147,-0.530859351
-	rot = 2.42121025E-08,-0.50000006,4.19365946E-08,-0.866025567
+	rot = 2.42121008E-08,-0.500000119,4.19365733E-08,-0.866025388
 	attRot = 0,0,0,1
 	attRot0 = -4.19365698E-08,0.866025388,2.42121008E-08,-0.5
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7481,22 +7465,22 @@ PART
 {
 	part = strutConnector_4294031912
 	partName = CompoundPart
-	pos = 1.28746891,7.46595001,0.208452225
+	pos = 1.28746772,7.46595001,0.208452225
 	attPos = 0,0,0
 	attPos0 = 0.306491435,-1.68788147,-0.530859411
-	rot = 4.6774197E-08,-0.965925932,1.25330963E-08,-0.258819103
+	rot = 4.67741827E-08,-0.965925932,1.25331052E-08,-0.258819103
 	attRot = 0,0,0,1
 	attRot0 = -4.19365804E-08,0.866025388,2.4212099E-08,-0.5
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7563,12 +7547,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7625,22 +7609,22 @@ PART
 {
 	part = strutConnector_4294029354
 	partName = CompoundPart
-	pos = 0.64308697,7.51734924,2.65643311
+	pos = 0.643086076,7.51734924,2.65643311
 	attPos = 0,0,0
 	attPos0 = -3.12979864E-07,-1.63648224,0.624535084
-	rot = 2.77532752E-08,1,8.94231148E-15,1.49011612E-07
+	rot = 2.77532646E-08,1,5.38959822E-15,1.49011612E-07
 	attRot = 0,0,0,1
 	attRot0 = 1.96245189E-08,0.707106769,1.96245207E-08,0.707106829
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7697,7 +7681,7 @@ PART
 {
 	part = strutConnector_4294029258
 	partName = CompoundPart
-	pos = 1.76481473,7.51734924,1.02369118
+	pos = 1.76481378,7.51734924,1.02369249
 	attPos = 0,0,0
 	attPos0 = -3.42671484E-07,-1.63648224,0.624535322
 	rot = 1.96245171E-08,0.707106829,-1.96245189E-08,-0.707106948
@@ -7707,12 +7691,12 @@ PART
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7769,22 +7753,22 @@ PART
 {
 	part = strutConnector_4294029162
 	partName = CompoundPart
-	pos = 0.13207233,7.51734924,-0.0980405807
+	pos = 0.132073164,7.51734924,-0.0980401039
 	attPos = 0,0,0
 	attPos0 = -2.93260882E-07,-1.63648224,0.624535084
-	rot = 8.91204784E-15,1.49011612E-07,-2.77532752E-08,-1
+	rot = 5.35933416E-15,1.49011612E-07,-2.77532646E-08,-1
 	attRot = 0,0,0,1
 	attRot0 = 1.96245189E-08,0.707106769,1.96245207E-08,0.707106829
 	mir = 1,1,1
 	symMethod = Radial
 	autostrutMode = Off
 	rigidAttachment = False
-	istg = 3
+	istg = 5
 	resPri = 0
 	dstg = 6
 	sidx = -1
 	sqor = -1
-	sepI = 2
+	sepI = 4
 	attm = 1
 	modCost = 0
 	modMass = 0
@@ -7835,853 +7819,5 @@ PART
 		UPGRADESAPPLIED
 		{
 		}
-	}
-}
-PART
-{
-	part = batteryPack_4293885152
-	partName = Part
-	pos = 0.0905046463,22.1469669,1.27919912
-	attPos = 0,0,0
-	attPos0 = -0.297074914,0.0682945251,0
-	rot = 0,0.707106829,0,0.707106829
-	attRot = 0,0,0,1
-	attRot0 = 0,0.707106829,0,0.707106829
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293884670
-	sym = batteryPack_4293884632
-	sym = batteryPack_4293884594
-	sym = batteryPack_4293884556
-	sym = batteryPack_4293884518
-	sym = batteryPack_4293884480
-	sym = batteryPack_4293884442
-	srfN = srfAttach,sasModule_4294647158
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293884670
-	partName = Part
-	pos = 0.177515879,22.1469669,1.48926282
-	attPos = 0,0,0
-	attPos0 = -0.210063681,0.0682945251,0.210063696
-	rot = 0,0.923879564,0,0.382683426
-	attRot = 0,0,0,1
-	attRot0 = 0,0.923879564,0,0.382683426
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293885152
-	sym = batteryPack_4293884632
-	sym = batteryPack_4293884594
-	sym = batteryPack_4293884556
-	sym = batteryPack_4293884518
-	sym = batteryPack_4293884480
-	sym = batteryPack_4293884442
-	srfN = srfAttach,sasModule_4294647158
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293884632
-	partName = Part
-	pos = 0.38757953,22.1469669,1.57627404
-	attPos = 0,0,0
-	attPos0 = -2.98023224E-08,0.0682945251,0.297074914
-	rot = 0,1,0,0
-	attRot = 0,0,0,1
-	attRot0 = 0,1,0,0
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293885152
-	sym = batteryPack_4293884670
-	sym = batteryPack_4293884594
-	sym = batteryPack_4293884556
-	sym = batteryPack_4293884518
-	sym = batteryPack_4293884480
-	sym = batteryPack_4293884442
-	srfN = srfAttach,sasModule_4294647158
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293884594
-	partName = Part
-	pos = 0.597643256,22.1469669,1.48926282
-	attPos = 0,0,0
-	attPos0 = 0.210063696,0.0682945251,0.210063696
-	rot = 0,0.923879564,0,-0.382683456
-	attRot = 0,0,0,1
-	attRot0 = 0,0.923879564,0,-0.382683456
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293885152
-	sym = batteryPack_4293884670
-	sym = batteryPack_4293884632
-	sym = batteryPack_4293884556
-	sym = batteryPack_4293884518
-	sym = batteryPack_4293884480
-	sym = batteryPack_4293884442
-	srfN = srfAttach,sasModule_4294647158
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293884556
-	partName = Part
-	pos = 0.684654474,22.1469669,1.27919912
-	attPos = 0,0,0
-	attPos0 = 0.297074914,0.0682945251,0
-	rot = 0,0.707106769,0,-0.707106888
-	attRot = 0,0,0,1
-	attRot0 = 0,0.707106769,0,-0.707106888
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293885152
-	sym = batteryPack_4293884670
-	sym = batteryPack_4293884632
-	sym = batteryPack_4293884594
-	sym = batteryPack_4293884518
-	sym = batteryPack_4293884480
-	sym = batteryPack_4293884442
-	srfN = srfAttach,sasModule_4294647158
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293884518
-	partName = Part
-	pos = 0.597643256,22.1469669,1.06913543
-	attPos = 0,0,0
-	attPos0 = 0.210063696,0.0682945251,-0.210063696
-	rot = 0,0.382683367,0,-0.923879623
-	attRot = 0,0,0,1
-	attRot0 = 0,0.382683367,0,-0.923879623
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293885152
-	sym = batteryPack_4293884670
-	sym = batteryPack_4293884632
-	sym = batteryPack_4293884594
-	sym = batteryPack_4293884556
-	sym = batteryPack_4293884480
-	sym = batteryPack_4293884442
-	srfN = srfAttach,sasModule_4294647158
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293884480
-	partName = Part
-	pos = 0.38757953,22.1469669,0.982124209
-	attPos = 0,0,0
-	attPos0 = -2.98023224E-08,0.0682945251,-0.297074914
-	rot = 0,0,0,-1
-	attRot = 0,0,0,1
-	attRot0 = 0,0,0,-1
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293885152
-	sym = batteryPack_4293884670
-	sym = batteryPack_4293884632
-	sym = batteryPack_4293884594
-	sym = batteryPack_4293884556
-	sym = batteryPack_4293884518
-	sym = batteryPack_4293884442
-	srfN = srfAttach,sasModule_4294647158
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293884442
-	partName = Part
-	pos = 0.177515805,22.1469669,1.06913543
-	attPos = 0,0,0
-	attPos0 = -0.210063756,0.0682945251,-0.210063696
-	rot = 0,-0.382683605,0,-0.923879504
-	attRot = 0,0,0,1
-	attRot0 = 0,-0.382683605,0,-0.923879504
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293885152
-	sym = batteryPack_4293884670
-	sym = batteryPack_4293884632
-	sym = batteryPack_4293884594
-	sym = batteryPack_4293884556
-	sym = batteryPack_4293884518
-	sym = batteryPack_4293884480
-	srfN = srfAttach,sasModule_4294647158
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293883334
-	partName = Part
-	pos = -0.00925067067,22.9164658,1.27919912
-	attPos = 0,0,0
-	attPos0 = -0.396830231,0.408336639,0
-	rot = 0.171861857,0.68590343,-0.171861872,0.68590343
-	attRot = 0,0,0,1
-	attRot0 = 0.171861857,0.68590343,-0.171861872,0.68590343
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293882612
-	sym = batteryPack_4293882574
-	sym = batteryPack_4293882536
-	sym = batteryPack_4293882498
-	sym = batteryPack_4293882460
-	sym = batteryPack_4293882422
-	sym = batteryPack_4293882384
-	srfN = srfAttach,probeCoreSphere_4294706024
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293882612
-	partName = Part
-	pos = 0.106978238,22.9164658,1.55980051
-	attPos = 0,0,0
-	attPos0 = -0.280601323,0.408336639,0.280601382
-	rot = 0.0930109546,0.89617604,-0.224548355,0.371208221
-	attRot = 0,0,0,1
-	attRot0 = 0.0930109546,0.89617604,-0.224548355,0.371208221
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293883334
-	sym = batteryPack_4293882574
-	sym = batteryPack_4293882536
-	sym = batteryPack_4293882498
-	sym = batteryPack_4293882460
-	sym = batteryPack_4293882422
-	sym = batteryPack_4293882384
-	srfN = srfAttach,probeCoreSphere_4294706024
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293882574
-	partName = Part
-	pos = 0.38757953,22.9164658,1.67602932
-	attPos = 0,0,0
-	attPos0 = -2.98023224E-08,0.408336639,0.396830201
-	rot = -1.05367128E-08,0.970013976,-0.243049383,0
-	attRot = 0,0,0,1
-	attRot0 = -1.05367128E-08,0.970013976,-0.243049383,0
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293883334
-	sym = batteryPack_4293882612
-	sym = batteryPack_4293882536
-	sym = batteryPack_4293882498
-	sym = batteryPack_4293882460
-	sym = batteryPack_4293882422
-	sym = batteryPack_4293882384
-	srfN = srfAttach,probeCoreSphere_4294706024
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293882536
-	partName = Part
-	pos = 0.668180883,22.9164658,1.55980051
-	attPos = 0,0,0
-	attPos0 = 0.280601323,0.408336639,0.280601382
-	rot = -0.0930109844,0.89617604,-0.224548355,-0.37120828
-	attRot = 0,0,0,1
-	attRot0 = -0.0930109844,0.89617604,-0.224548355,-0.37120828
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293883334
-	sym = batteryPack_4293882612
-	sym = batteryPack_4293882574
-	sym = batteryPack_4293882498
-	sym = batteryPack_4293882460
-	sym = batteryPack_4293882422
-	sym = batteryPack_4293882384
-	srfN = srfAttach,probeCoreSphere_4294706024
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293882498
-	partName = Part
-	pos = 0.784409761,22.9164658,1.27919912
-	attPos = 0,0,0
-	attPos0 = 0.396830201,0.408336639,0
-	rot = -0.171861887,0.68590337,-0.171861842,-0.68590349
-	attRot = 0,0,0,1
-	attRot0 = -0.171861887,0.68590337,-0.171861842,-0.68590349
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293883334
-	sym = batteryPack_4293882612
-	sym = batteryPack_4293882574
-	sym = batteryPack_4293882536
-	sym = batteryPack_4293882460
-	sym = batteryPack_4293882422
-	sym = batteryPack_4293882384
-	srfN = srfAttach,probeCoreSphere_4294706024
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293882460
-	partName = Part
-	pos = 0.668180883,22.9164658,0.998597741
-	attPos = 0,0,0
-	attPos0 = 0.280601323,0.408336639,-0.280601382
-	rot = -0.224548355,0.371208191,-0.0930109397,-0.89617604
-	attRot = 0,0,0,1
-	attRot0 = -0.224548355,0.371208191,-0.0930109397,-0.89617604
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293883334
-	sym = batteryPack_4293882612
-	sym = batteryPack_4293882574
-	sym = batteryPack_4293882536
-	sym = batteryPack_4293882498
-	sym = batteryPack_4293882422
-	sym = batteryPack_4293882384
-	srfN = srfAttach,probeCoreSphere_4294706024
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293882422
-	partName = Part
-	pos = 0.38757953,22.9164658,0.882368922
-	attPos = 0,0,0
-	attPos0 = -2.98023224E-08,0.408336639,-0.396830201
-	rot = -0.243049383,0,1.05367128E-08,-0.970013976
-	attRot = 0,0,0,1
-	attRot0 = -0.243049383,0,1.05367128E-08,-0.970013976
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293883334
-	sym = batteryPack_4293882612
-	sym = batteryPack_4293882574
-	sym = batteryPack_4293882536
-	sym = batteryPack_4293882498
-	sym = batteryPack_4293882460
-	sym = batteryPack_4293882384
-	srfN = srfAttach,probeCoreSphere_4294706024
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
-	}
-}
-PART
-{
-	part = batteryPack_4293882384
-	partName = Part
-	pos = 0.106978118,22.9164658,0.99859786
-	attPos = 0,0,0
-	attPos0 = -0.280601442,0.408336639,-0.280601263
-	rot = -0.224548325,-0.371208429,0.0930110216,-0.896175981
-	attRot = 0,0,0,1
-	attRot0 = -0.224548325,-0.371208429,0.0930110216,-0.896175981
-	mir = 1,1,1
-	symMethod = Radial
-	autostrutMode = Off
-	rigidAttachment = False
-	istg = -1
-	resPri = 0
-	dstg = 0
-	sidx = -1
-	sqor = -1
-	sepI = -1
-	attm = 1
-	modCost = 0
-	modMass = 0
-	modSize = 0,0,0
-	sym = batteryPack_4293883334
-	sym = batteryPack_4293882612
-	sym = batteryPack_4293882574
-	sym = batteryPack_4293882536
-	sym = batteryPack_4293882498
-	sym = batteryPack_4293882460
-	sym = batteryPack_4293882422
-	srfN = srfAttach,probeCoreSphere_4294706024
-	EVENTS
-	{
-	}
-	ACTIONS
-	{
-	}
-	PARTDATA
-	{
-	}
-	RESOURCE
-	{
-		name = ElectricCharge
-		amount = 100
-		maxAmount = 100
-		flowState = True
-		isTweakable = True
-		hideFlow = False
-		isVisible = True
-		flowMode = Both
 	}
 }
