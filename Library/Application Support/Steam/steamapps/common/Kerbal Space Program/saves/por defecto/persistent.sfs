@@ -154,12 +154,12 @@ GAME
 	{
 		name = ContractSystem
 		scene = 7, 8, 5, 6
-		update = 151247.26201373665
+		update = 167608.21970475282
 		version = 1.3.1
 		WEIGHTS
 		{
 			TourismContract = 40
-			SurveyContract = 90
+			SurveyContract = 88
 			StationContract = 30
 			SentinelContract = 30
 			SatelliteContract = 30
@@ -187,7 +187,7 @@ GAME
 			Moho = 30
 			Minmus = 30
 			Mun = 54
-			Kerbin = 76
+			Kerbin = 74
 			Sun = 30
 		}
 		CONTRACTS
@@ -246,13 +246,13 @@ GAME
 				type = ExplorationContract
 				prestige = 0
 				seed = -1047913906
-				state = Offered
+				state = Active
 				viewed = Read
 				agent = Kerbin World-Firsts Record-Keeping Society
 				deadlineType = None
 				expiryType = Floating
 				ignoresWeight = True
-				values = 108000,0,33600,62400,33600,5,10,0,259224.482013749,0,0,0
+				values = 108000,0,33600,62400,33600,5,10,0,259224.482013749,151264.382013728,0,0
 				targetBody = 2
 				bodyRatio = 0.315789461
 				PARAM
@@ -434,92 +434,6 @@ GAME
 					wpLongitude = 9.5808769301438641
 					wpLandlocked = False
 					wpNavigationId = 8a6175fe-7b0f-4b03-82f7-a3f90ea20c10
-				}
-			}
-			CONTRACT
-			{
-				guid = 57aedadd-52a2-4c42-8d60-6861a97fbb21
-				type = SurveyContract
-				prestige = 0
-				seed = -849577602
-				state = Offered
-				viewed = Read
-				agent = Sean's Cannery
-				deadlineType = Floating
-				expiryType = Floating
-				values = 62912.6243591309,44667963.2949829,30899.9991416931,57319.4958047868,31499.9985694885,0,8.571429,9,153717.487492922,0,0,0
-				targetBody = 1
-				centerLatitude = -44.726490691726724
-				centerLongitude = 147.83172713957339
-				dataName = observacionales^pn
-				anomalyName = inconsistencias^pf
-				reportName = informes^pm
-				locationName = Kerbin^N
-				focusedSurvey = False
-				targetBand = HIGH
-				contextual = False
-				PARAM
-				{
-					name = SurveyWaypointParameter
-					state = Incomplete
-					values = 8800,0,3,3,0
-					targetBody = 1
-					actionDescription = Realizar un informe de tripulación
-					experiment = crewReport
-					flightThreshold = 18700
-					band = 3
-					clusterState = MIXED
-					verified = True
-					contextual = False
-					wpSeed = -1468764701
-					wpIndex = 0
-					wpTexture = report
-					wpLatitude = -47.209161430690465
-					wpLongitude = 153.00449160018098
-					wpLandlocked = False
-					wpNavigationId = 93616e5f-b2cb-489e-96a1-52d759b32104
-				}
-				PARAM
-				{
-					name = SurveyWaypointParameter
-					state = Incomplete
-					values = 8800,0,3,3,0
-					targetBody = 1
-					actionDescription = Realizar un informe de tripulación
-					experiment = crewReport
-					flightThreshold = 17600
-					band = 3
-					clusterState = MIXED
-					verified = True
-					contextual = False
-					wpSeed = -1468764701
-					wpIndex = 1
-					wpTexture = report
-					wpLatitude = -46.828221887105968
-					wpLongitude = 145.07449527068454
-					wpLandlocked = False
-					wpNavigationId = 27b9b4e0-8823-4317-8806-a40871baac1b
-				}
-				PARAM
-				{
-					name = SurveyWaypointParameter
-					state = Incomplete
-					values = 8800,0,3,3,0
-					targetBody = 1
-					actionDescription = Realizar un informe de tripulación
-					experiment = crewReport
-					flightThreshold = 18900
-					band = 3
-					clusterState = MIXED
-					verified = True
-					contextual = False
-					wpSeed = -1468764701
-					wpIndex = 2
-					wpTexture = report
-					wpLatitude = -49.685884576343945
-					wpLongitude = 148.35662956210575
-					wpLandlocked = False
-					wpNavigationId = 51316ad6-b6f2-4cac-9688-8166b7236c37
 				}
 			}
 			CONTRACT
@@ -2424,7 +2338,7 @@ GAME
 	{
 		name = Funding
 		scene = 7, 8, 5, 6
-		funds = 1013715.4108096623
+		funds = 1047315.4108096623
 	}
 	SCENARIO
 	{
@@ -3094,7 +3008,7 @@ GAME
 	FLIGHTSTATE
 	{
 		version = 1.3.1
-		UT = 151253.52201373337
+		UT = 167614.29716813067
 		activeVessel = 0
 		mapViewFiltering = 8190
 		commNetUIModeTracking = Network
@@ -3129,13 +3043,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 299999.93566743069
-				ECC = 0.99999999999999989
-				INC = 0.28108064778305103
+				SMA = 0
+				ECC = 1
+				INC = 0.28108064778175434
 				LPE = 270
-				LAN = 298.24932701448739
-				MNA = 3.1415926207170166
-				EPH = 151247.22201373667
+				LAN = 298.9329276148336
+				MNA = 0
+				EPH = 151288.14201371523
 				REF = 1
 			}
 			PART
@@ -3274,13 +3188,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 299999.9340282951
-				ECC = 0.99999999999999989
-				INC = 0.28091720137146048
+				SMA = NaN
+				ECC = 1
+				INC = 0.28091720137405535
 				LPE = 270
-				LAN = 298.24955568474405
-				MNA = 3.1415926207170166
-				EPH = 151247.22201373667
+				LAN = 298.93315628509077
+				MNA = 0
+				EPH = 151288.14201371523
 				REF = 1
 			}
 			PART
@@ -3423,9 +3337,9 @@ GAME
 				ECC = 1
 				INC = 0.28081981438541981
 				LPE = 270
-				LAN = 298.24927641571969
+				LAN = 298.93287701606636
 				MNA = 0
-				EPH = 151247.22201373667
+				EPH = 151288.14201371523
 				REF = 1
 			}
 			PART
@@ -3564,13 +3478,13 @@ GAME
 			cMod = -1
 			ORBIT
 			{
-				SMA = 0
-				ECC = 1
-				INC = 0.28101037078648566
+				SMA = 299999.93447513459
+				ECC = 0.99999999999999989
+				INC = 0.28101037078778263
 				LPE = 270
-				LAN = 298.24912567371484
-				MNA = 0
-				EPH = 151247.22201373667
+				LAN = 298.93272627406066
+				MNA = 3.1415926207170166
+				EPH = 151288.14201371523
 				REF = 1
 			}
 			PART
