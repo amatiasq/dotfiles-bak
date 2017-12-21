@@ -54,7 +54,9 @@
 	<key>NSWindow Frame NSFontPanel</key>
 	<string>216 150 965 491 0 0 1440 900 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>269 373 796 473 0 0 1440 900 </string>
+	<string>269 417 770 429 0 0 1440 900 </string>
+	<key>NSWindow Frame iTerm Window 0</key>
+	<string>155 93 650 452 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -688,16 +690,30 @@
 			<string>/Users/mquezada</string>
 		</dict>
 	</array>
+	<key>NoSyncHaveUsedCopyMode</key>
+	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>4C74451E-26BB-4268-87A8-2089AB11A7AB</string>
+	<key>NoSyncLastTipTime</key>
+	<real>533136651.25425297</real>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
 	<integer>0</integer>
+	<key>NoSyncPermissionToShowTip</key>
+	<true/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>532369582.682486</real>
+	<key>NoSyncTipsDisabled</key>
+	<true/>
+	<key>NoSyncTipsToNotShow</key>
+	<array>
+		<string>000</string>
+		<string>0000</string>
+		<string>0001</string>
+	</array>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -733,14 +749,24 @@
 	</dict>
 	<key>PrefsCustomFolder</key>
 	<string>/Users/mquezada/.config</string>
+	<key>SUEnableAutomaticChecks</key>
+	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
 	<string>https://iterm2.com/appcasts/final.xml?shard=51</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
+	<key>SULastCheckTime</key>
+	<date>2017-12-19T14:37:59Z</date>
+	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>ShowFullScreenTabBar</key>
+	<false/>
 	<key>WordCharacters</key>
 	<string>/-+\~_.</string>
+	<key>findMode_iTerm</key>
+	<integer>0</integer>
 	<key>iTerm Version</key>
 	<string>3.1.5</string>
 </dict>
