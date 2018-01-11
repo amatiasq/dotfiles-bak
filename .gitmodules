@@ -61,3 +61,6 @@
 [submodule "repos/genara"]
 	path = repos/genara
 	url = git@github.com:amatiasq/genara
+[submodule "repos/catastophe"]
+	path = repos/catastophe
+	url = git@github.com:amatiasq/catastophe.git
