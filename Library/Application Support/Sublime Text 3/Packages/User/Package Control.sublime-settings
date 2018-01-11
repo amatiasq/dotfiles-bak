@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SublimeLinter"
 	],
 	"installed_packages":
 	[
@@ -18,7 +19,7 @@
 		"Preference Helper",
 		"Solarized Color Scheme",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-eslint",
 		"Theme - Soda",
 		"TypeScript"
 	]
