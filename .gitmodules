@@ -64,3 +64,6 @@
 [submodule "repos/catastophe"]
 	path = repos/catastophe
 	url = git@github.com:amatiasq/catastophe.git
+[submodule "repos/catastrophe"]
+	path = repos/catastrophe
+	url = git@github.com:amatiasq/catastrophe.git
