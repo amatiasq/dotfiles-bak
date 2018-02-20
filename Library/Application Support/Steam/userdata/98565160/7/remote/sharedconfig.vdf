@@ -1534,6 +1534,10 @@
 					{
 						"hidden"		"1"
 					}
+					"427520"
+					{
+						"cloudenabled"		"1"
+					}
 				}
 				"PrivacyPolicyVersion"		"2"
 			}
