@@ -1534,10 +1534,6 @@
 					{
 						"hidden"		"1"
 					}
-					"427520"
-					{
-						"cloudenabled"		"1"
-					}
 				}
 				"PrivacyPolicyVersion"		"2"
 			}
@@ -2109,6 +2105,10 @@
 		"491950"
 		{
 			"usetime"		"657.0625"
+		}
+		"22380"
+		{
+			"usetime"		"3937.15625"
 		}
 	}
 	"controller"
