@@ -1,0 +1,30 @@
+{
+  "available-campaign-levels": {
+    "beta": {
+      "level-01": "easy"
+    },
+    "demo": {
+      "level-01": "hard",
+      "level-02": "easy",
+      "level-03": "easy"
+    },
+    "tight-spot": {
+      "level-01": "hard"
+    },
+    "transport-belt-madness": {
+      "level-01": "hard"
+    }
+  },
+  "finished-campaigns": {
+    "demo": "easy"
+  },
+  "tutorials": {
+    "trains-advanced-signals": "suggested",
+    "trains-basic-signals": "suggested",
+    "trains-basics": "completed",
+    "trains-ghost-rail-planner": "completed",
+    "trains-stations": "completed"
+  },
+  "service-username": "",
+  "service-token": ""
+}

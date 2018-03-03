@@ -1,0 +1,33 @@
+   0.000 2018-03-03 13:09:24; Factorio 0.15.40 (build 30950, mac, steam)
+   0.000 Operating system: Mac OS X 10.12.6
+   0.000 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
+   0.000 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
+   0.000 Write data path: /Users/mquezada/Library/Application Support/factorio
+   0.000 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
+   0.015 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384MB]
+   0.023 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
+   0.023 Available display adapters: 1
+   0.023  [0]: resolution 1440x900px at [0,0]
+   0.023 Create display on adapter 0. Size 1280x720 at position [70, 72].
+   0.487 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
+   0.756 Graphics settings preset: medium
+   0.756 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
+   0.922 Loading mod core 0.0.0 (data.lua)
+   0.946 Loading mod base 0.15.40 (data.lua)
+   1.116 Loading mod base 0.15.40 (data-updates.lua)
+   1.174 Checksum for core: 3865022077
+   1.174 Checksum of base: 1503927233
+   1.500 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520078727
+   1.500 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1519238663
+   1.637 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
+   1.642 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
+   1.655 Initial atlas bitmap size is 16384
+   1.657 Created atlas bitmap 16384x5045
+   1.657 Created atlas bitmap 8192x2034
+   1.657 Created atlas bitmap 8192x1443
+   1.658 Created atlas bitmap 4096x3644
+   1.658 Created atlas bitmap 4096x1568
+   1.658 Created atlas bitmap 4096x1868
+   2.414 Closed during loading.
+   2.570 Steam API shutdown.
+   2.571 Goodbye
