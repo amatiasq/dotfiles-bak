@@ -1,33 +1,58 @@
-   0.000 2018-03-03 13:09:36; Factorio 0.15.40 (build 30950, mac, steam)
+   0.000 2018-03-05 17:04:57; Factorio 0.15.40 (build 30950, mac, steam)
    0.000 Operating system: Mac OS X 10.12.6
    0.000 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
    0.000 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
    0.000 Write data path: /Users/mquezada/Library/Application Support/factorio
    0.000 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
-   0.011 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384MB]
-   0.019 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
-   0.019 Available display adapters: 1
-   0.019  [0]: resolution 1440x900px at [0,0]
-   0.019 Create display on adapter 0. Size 1280x720 at position [70, 72].
-   0.450 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
-   0.664 Graphics settings preset: medium
-   0.664 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
-   0.813 Loading mod core 0.0.0 (data.lua)
-   0.822 Loading mod base 0.15.40 (data.lua)
-   0.921 Loading mod base 0.15.40 (data-updates.lua)
-   0.972 Checksum for core: 3865022077
-   0.972 Checksum of base: 1503927233
-   1.328 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520078966
-   1.328 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1519238663
-   1.464 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
-   1.466 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
-   1.486 Initial atlas bitmap size is 16384
-   1.487 Created atlas bitmap 16384x5045
-   1.488 Created atlas bitmap 8192x2034
-   1.488 Created atlas bitmap 8192x1443
-   1.488 Created atlas bitmap 4096x3644
-   1.488 Created atlas bitmap 4096x1568
-   1.489 Created atlas bitmap 4096x1868
-   8.523 Closed during loading.
-   8.798 Steam API shutdown.
-   8.799 Goodbye
+   0.015 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384MB]
+   0.023 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
+   0.024 Available display adapters: 1
+   0.024  [0]: resolution 1440x900px at [0,0]
+   0.024 Create display on adapter 0. Size 1280x720 at position [70, 72].
+   0.441 [OpenGL] glClear in ogl_clear:0: GL_INVALID_FRAMEBUFFER_OPERATION
+   0.456 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
+   0.710 Graphics settings preset: medium
+   0.710 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
+   0.892 Loading mod core 0.0.0 (data.lua)
+   0.917 Loading mod base 0.15.40 (data.lua)
+   1.047 Loading mod base 0.15.40 (data-updates.lua)
+   1.167 Checksum for core: 3865022077
+   1.167 Checksum of base: 1503927233
+   1.929 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520078985
+   1.929 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1519238663
+   2.169 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
+   2.179 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
+   2.254 Initial atlas bitmap size is 16384
+   2.258 Created atlas bitmap 16384x5045
+   2.258 Created atlas bitmap 8192x2034
+   2.259 Created atlas bitmap 8192x1443
+   2.259 Created atlas bitmap 4096x3644
+   2.259 Created atlas bitmap 4096x1568
+   2.259 Created atlas bitmap 4096x1868
+  25.320 Sprites loaded
+  25.320 Convert atlas 4096x3644 to: mipmap 
+  25.613 Convert atlas 4096x1568 to: mipmap 
+  25.771 Convert atlas 4096x1868 to: trilinear-filtering 
+  25.923 Loading sounds...
+  28.989 Custom inputs active: 0
+  29.061 Factorio initialised
+  36.148 Loading map /Users/mquezada/Library/Application Support/factorio/saves/POTATOMAN.zip: 8642755 bytes.
+  36.177 Loading Level.dat: 16965450 bytes.
+  36.184 Info Scenario.cpp:135: Map version 0.15.40-0
+  36.842 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+  36.843 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 1; timestamp = 1519116795; records: (id: 65535, 0; label: "", preview: false, empty: false; book)
+  36.843 Info BlueprintLibrary.cpp:796: Player shelf: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+  36.878 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+  36.878 Loading script.dat: 190 bytes.
+  36.890 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 138.112 Loading map /Users/mquezada/Library/Application Support/factorio/saves/_autosave1.zip: 8625823 bytes.
+ 138.136 Loading Level.dat: 16880935 bytes.
+ 138.144 Info Scenario.cpp:135: Map version 0.15.40-0
+ 138.648 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 138.648 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 1; timestamp = 1519116795; records: (id: 65535, 0; label: "", preview: false, empty: false; book)
+ 138.648 Info BlueprintLibrary.cpp:796: Player shelf: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 138.677 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 138.677 Loading script.dat: 190 bytes.
+ 138.680 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+1107.777 Steam API shutdown.
+1107.779 Goodbye
