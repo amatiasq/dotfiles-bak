@@ -1,33 +1,49 @@
-   0.000 2018-03-03 13:09:36; Factorio 0.15.40 (build 30950, mac, steam)
-   0.000 Operating system: Mac OS X 10.12.6
-   0.000 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
-   0.000 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
-   0.000 Write data path: /Users/mquezada/Library/Application Support/factorio
-   0.000 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
-   0.011 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384MB]
-   0.019 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
-   0.019 Available display adapters: 1
-   0.019  [0]: resolution 1440x900px at [0,0]
-   0.019 Create display on adapter 0. Size 1280x720 at position [70, 72].
-   0.450 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
-   0.664 Graphics settings preset: medium
-   0.664 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
-   0.813 Loading mod core 0.0.0 (data.lua)
-   0.822 Loading mod base 0.15.40 (data.lua)
-   0.921 Loading mod base 0.15.40 (data-updates.lua)
-   0.972 Checksum for core: 3865022077
-   0.972 Checksum of base: 1503927233
-   1.328 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520078966
-   1.328 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1519238663
-   1.464 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
-   1.466 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
-   1.486 Initial atlas bitmap size is 16384
-   1.487 Created atlas bitmap 16384x5045
-   1.488 Created atlas bitmap 8192x2034
-   1.488 Created atlas bitmap 8192x1443
-   1.488 Created atlas bitmap 4096x3644
-   1.488 Created atlas bitmap 4096x1568
-   1.489 Created atlas bitmap 4096x1868
-   8.523 Closed during loading.
-   8.798 Steam API shutdown.
-   8.799 Goodbye
+   0.000 2018-03-03 13:25:27; Factorio 0.15.40 (build 30950, mac, steam)
+   0.001 Operating system: Mac OS X 10.12.6
+   0.002 Program arguments: "/Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
+   0.002 Read data path: /Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
+   0.002 Write data path: /Users/amatiasq/Library/Application Support/factorio
+   0.002 Binaries path: /Users/amatiasq/Library/Application Support/Steam/steamapps/common
+   0.028 System info: [CPU: Intel(R) Core(TM) i5-4258U CPU @ 2.40GHz, 4 cores, RAM: 4096MB]
+   0.085 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
+   0.085 Available display adapters: 1
+   0.085  [0]: resolution 1280x800px at [0,0]
+   0.085 Create display on adapter 0. Size 1230x720 at position [15, 22].
+   0.520 Initialised OpenGL:[0] Intel Iris OpenGL Engine; driver: 2.1 INTEL-10.25.19
+   0.671 Total system memory is low (4096 MB). Setting graphics preset to MacWithLowRAM.
+   0.671 Graphics options: [Graphics quality: normal] [Video memory usage: medium] [Light scale: 25%] [DXT: false] [Shader: 1]
+   0.979 Loading mod core 0.0.0 (data.lua)
+   1.000 Loading mod base 0.15.40 (data.lua)
+   1.218 Loading mod base 0.15.40 (data-updates.lua)
+   1.293 Checksum for core: 3865022077
+   1.293 Checksum of base: 1503927233
+   2.193 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520079914
+   2.193 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1519238663
+   2.523 Loaded shader file /Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
+   2.538 Loaded shader file /Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
+   2.558 Initial atlas bitmap size is 4096
+   2.562 Created atlas bitmap 4096x4094
+   2.562 Created atlas bitmap 4096x1727
+   2.563 Created atlas bitmap 4096x4063
+   2.563 Created atlas bitmap 4096x196
+   2.564 Created atlas bitmap 4096x1847
+   2.564 Created atlas bitmap 4096x1374
+   2.564 Created atlas bitmap 4096x1868
+  28.394 Sprites loaded
+  28.394 Convert atlas 4096x1868 to: trilinear-filtering 
+  28.617 Loading sounds...
+  31.962 Custom inputs active: 0
+  32.088 Factorio initialised
+  38.279 Loading map /Users/amatiasq/Library/Application Support/factorio/saves/POTATOMAN.zip: 6487603 bytes.
+  38.307 Loading Level.dat: 12434804 bytes.
+  38.312 Info Scenario.cpp:135: Map version 0.15.40-0
+  39.105 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+  39.106 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 1; timestamp = 1519116795; records: (id: 65535, 0; label: "", preview: false, empty: false; book)
+  39.106 Info BlueprintLibrary.cpp:796: Player shelf: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+  39.225 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+  39.226 Loading script.dat: 190 bytes.
+  39.234 Checksum for script /Users/amatiasq/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+3250.693 Unlocked achievement "delivery-service"
+38172.464 Unlocked achievement "run-forrest-run"
+40580.488 Steam API shutdown.
+40580.556 Goodbye
