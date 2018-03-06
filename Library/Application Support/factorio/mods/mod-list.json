@@ -3,6 +3,22 @@
     {
       "name": "base",
       "enabled": true
+    },
+    {
+      "name": "AfraidOfTheDark",
+      "enabled": true
+    },
+    {
+      "name": "ghost-copier",
+      "enabled": true
+    },
+    {
+      "name": "ModuleInserter",
+      "enabled": true
+    },
+    {
+      "name": "upgrade-planner",
+      "enabled": true
     }
   ]
 }

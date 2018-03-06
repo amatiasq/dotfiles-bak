@@ -1,115 +1,157 @@
-   0.000 2018-03-05 19:37:44; Factorio 0.15.40 (build 30950, mac, steam)
+   0.000 2018-03-05 22:58:58; Factorio 0.15.40 (build 30950, mac, steam)
    0.000 Operating system: Mac OS X 10.12.6
    0.000 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
    0.000 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
    0.000 Write data path: /Users/mquezada/Library/Application Support/factorio
    0.000 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
-   0.027 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384MB]
-   0.034 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
-   0.034 Available display adapters: 1
-   0.034  [0]: resolution 1440x900px at [0,0]
-   0.034 Create display on adapter 0. Size 1280x720 at position [70, 72].
-   0.488 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
-   0.711 Graphics settings preset: medium
-   0.711 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
-   0.889 Loading mod core 0.0.0 (data.lua)
-   0.902 Loading mod base 0.15.40 (data.lua)
-   1.121 Loading mod base 0.15.40 (data-updates.lua)
-   1.184 Checksum for core: 3865022077
-   1.184 Checksum of base: 1503927233
-   1.669 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520267004
-   1.669 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1519238663
-   1.811 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
-   1.813 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
-   1.826 Initial atlas bitmap size is 16384
-   1.827 Created atlas bitmap 16384x5045
-   1.827 Created atlas bitmap 8192x2034
-   1.828 Created atlas bitmap 8192x1443
-   1.828 Created atlas bitmap 4096x3644
-   1.828 Created atlas bitmap 4096x1568
-   1.828 Created atlas bitmap 4096x1868
-  20.398 Sprites loaded
-  20.399 Convert atlas 4096x3644 to: mipmap 
-  20.663 Convert atlas 4096x1568 to: mipmap 
-  20.842 Convert atlas 4096x1868 to: trilinear-filtering 
-  21.026 Loading sounds...
-  23.685 Custom inputs active: 0
-  23.745 Factorio initialised
-  34.822 Loading map /Users/mquezada/Library/Application Support/factorio/saves/POTATOMAN.zip: 8642755 bytes.
-  34.862 Loading Level.dat: 16965450 bytes.
-  34.869 Info Scenario.cpp:135: Map version 0.15.40-0
-  35.431 Info BlueprintLibrary.cpp:226: Loaded library shelves:
-  35.431 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 1; timestamp = 1519116795; records: (id: 65535, 0; label: "", preview: false, empty: false; book)
-  35.431 Info BlueprintLibrary.cpp:796: Player shelf: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-  35.465 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-  35.466 Loading script.dat: 190 bytes.
-  35.468 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
-2919.013 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-2919.376 Loading Level.dat: 1168291 bytes.
-2919.376 Info Scenario.cpp:135: Map version 0.15.40-0
-2919.431 Info BlueprintLibrary.cpp:226: Loaded library shelves:
-2919.431 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520286827; records:
-2919.433 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520077400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-2919.436 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
-2932.801 Info BlueprintShelf.cpp:683: Saving blueprint storage.
-2943.820 Info HttpSharedState.cpp:44: Downloading https://auth.factorio.com/api-login?api_version=2
-2946.601 Info HttpSharedState.cpp:111: Status code: 401
-2946.601 Info AuthServerConnector.cpp:41: Error in communication with auth server: code(401) message({
-  "message": "Username and password don't match",
-  "status": 401
-})
-2946.601 Info AuthServerConnector.cpp:69: Auth server authorization error (Username and password don't match)
-2955.811 Info HttpSharedState.cpp:44: Downloading https://auth.factorio.com/api-login?api_version=2
-2956.206 Info HttpSharedState.cpp:111: Status code: 401
-2956.206 Info AuthServerConnector.cpp:41: Error in communication with auth server: code(401) message({
-  "message": "Username and password don't match",
-  "status": 401
-})
-2956.206 Info AuthServerConnector.cpp:69: Auth server authorization error (Username and password don't match)
-3047.863 Info HttpSharedState.cpp:44: Downloading https://auth.factorio.com/api-login?api_version=2
-3051.019 Info HttpSharedState.cpp:111: Status code: 200
-3051.019 Info AuthServerConnector.cpp:171: Got token from auth server for username(amatiasq).
-3051.021 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods?page_size=max
-3065.937 Info HttpSharedState.cpp:111: Status code: 200
-3069.997 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/2xCraftingSpeed
-3071.363 Info HttpSharedState.cpp:111: Status code: 200
-3123.512 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/Afraid%20In%20The%20Dark
-3123.892 Info HttpSharedState.cpp:111: Status code: 200
-3128.600 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/AfraidOfTheDark
-3128.959 Info HttpSharedState.cpp:111: Status code: 200
-3141.064 Info ModPortal.cpp:194: Downloading /download/AfraidOfTheDark/5a5f1ae6adcc441024d73f88?username=amatiasq&token=<private> to /Users/mquezada/Library/Application Support/factorio/temp/AfraidOfTheDark_1.0.16.zip
-3141.064 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/download/AfraidOfTheDark/5a5f1ae6adcc441024d73f88?username=amatiasq&token=<private>
-3141.075 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/AfraidOfTheDark
-3143.234 Info HttpSharedState.cpp:111: Status code: 200
-3143.487 Info HttpSharedState.cpp:111: Status code: 200
-3148.959 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/ModuleInserter
-3149.363 Info HttpSharedState.cpp:111: Status code: 200
-3158.713 Info ModPortal.cpp:194: Downloading /download/ModuleInserter/5a5f1ae6adcc441024d73158?username=amatiasq&token=<private> to /Users/mquezada/Library/Application Support/factorio/temp/ModuleInserter_2.0.5.zip
-3158.714 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/download/ModuleInserter/5a5f1ae6adcc441024d73158?username=amatiasq&token=<private>
-3158.719 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/ModuleInserter
-3158.998 Info HttpSharedState.cpp:111: Status code: 200
-3159.262 Info HttpSharedState.cpp:111: Status code: 200
-3159.269 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/ModuleInserter
-3159.692 Info HttpSharedState.cpp:111: Status code: 200
-3168.359 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/ghost-copier
-3168.707 Info HttpSharedState.cpp:111: Status code: 200
-3198.325 Info ModPortal.cpp:194: Downloading /download/ghost-copier/5a5f1ae6adcc441024d74196?username=amatiasq&token=<private> to /Users/mquezada/Library/Application Support/factorio/temp/ghost-copier_1.0.0.zip
-3198.326 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/download/ghost-copier/5a5f1ae6adcc441024d74196?username=amatiasq&token=<private>
-3198.340 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/ghost-copier
-3198.591 Info HttpSharedState.cpp:111: Status code: 200
-3198.940 Info HttpSharedState.cpp:111: Status code: 200
-3198.955 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/ghost-copier
-3199.540 Info HttpSharedState.cpp:111: Status code: 200
-3214.093 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/upgrade-planner
-3214.609 Info HttpSharedState.cpp:111: Status code: 200
-3221.635 Info ModPortal.cpp:194: Downloading /download/upgrade-planner/5a5f1ae6adcc441024d74764?username=amatiasq&token=<private> to /Users/mquezada/Library/Application Support/factorio/temp/upgrade-planner_1.4.11.zip
-3221.635 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/download/upgrade-planner/5a5f1ae6adcc441024d74764?username=amatiasq&token=<private>
-3221.646 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/upgrade-planner
-3221.984 Info HttpSharedState.cpp:111: Status code: 200
-3222.365 Info HttpSharedState.cpp:111: Status code: 200
-3222.376 Info HttpSharedState.cpp:44: Downloading https://mods.factorio.com/api/mods/upgrade-planner
-3222.825 Info HttpSharedState.cpp:111: Status code: 200
-3226.074 Info AppManager.cpp:771: Restarting Factorio
-3226.074 Restarting for reason other than update. Setting execute permission skipped.
-3227.252 Steam API shutdown.
-3227.254 Goodbye
+   0.012 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384MB]
+   0.020 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
+   0.020 Available display adapters: 1
+   0.020  [0]: resolution 1440x900px at [0,0]
+   0.020 Create display on adapter 0. Size 1280x720 at position [70, 72].
+   0.559 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
+   0.840 Graphics settings preset: medium
+   0.840 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
+   1.070 Loading mod core 0.0.0 (data.lua)
+   1.081 Loading mod base 0.15.40 (data.lua)
+   1.212 Loading mod ModuleInserter 2.0.5 (data.lua)
+   1.238 Loading mod AfraidOfTheDark 1.0.16 (data.lua)
+   1.263 Loading mod upgrade-planner 1.4.11 (data.lua)
+   1.286 Loading mod base 0.15.40 (data-updates.lua)
+   1.318 Loading mod AfraidOfTheDark 1.0.16 (data-updates.lua)
+   1.346 Loading mod ModuleInserter 2.0.5 (data-final-fixes.lua)
+   1.395 Checksum for core: 3865022077
+   1.395 Checksum of base: 1503927233
+   1.395 Checksum of ModuleInserter: 4260068510
+   1.395 Checksum of AfraidOfTheDark: 1350726015
+   1.395 Checksum of ghost-copier: 0
+   1.395 Checksum of upgrade-planner: 2070181918
+   1.791 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520287136
+   1.791 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1520278290
+   1.941 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
+   1.944 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
+   1.954 Crop bitmaps.
+   2.112 Initial atlas bitmap size is 16384
+   2.114 Created atlas bitmap 16384x5048
+   2.114 Created atlas bitmap 8192x2034
+   2.114 Created atlas bitmap 8192x1443
+   2.114 Created atlas bitmap 4096x3648
+   2.114 Created atlas bitmap 4096x1568
+   2.115 Created atlas bitmap 4096x1868
+  19.086 Sprites loaded
+  19.087 Convert atlas 4096x3648 to: mipmap 
+  19.324 Convert atlas 4096x1568 to: mipmap 
+  19.518 Convert atlas 4096x1868 to: trilinear-filtering 
+  19.737 Loading sounds...
+  22.241 Custom inputs active: 2
+  22.299 Factorio initialised
+ 103.071 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520286843; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 103.167 Loading Level.dat: 1127569 bytes.
+ 103.167 Info Scenario.cpp:135: Map version 0.15.40-0
+ 103.249 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 103.249 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287239; records:
+ 103.252 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520286843; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 103.256 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 103.260 Checksum for script __ModuleInserter__/control.lua: 2621239929
+ 103.262 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+ 103.263 Checksum for script __ghost-copier__/control.lua: 134514610
+ 103.266 Checksum for script __upgrade-planner__/control.lua: 2708626077
+ 125.691 Info BlueprintShelf.cpp:683: Saving blueprint storage.
+ 127.340 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287263; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 127.423 Loading Level.dat: 1207847 bytes.
+ 127.423 Info Scenario.cpp:135: Map version 0.15.40-0
+ 127.518 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 127.518 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287263; records:
+ 127.521 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287263; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 127.523 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 127.528 Checksum for script __ModuleInserter__/control.lua: 2621239929
+ 127.530 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+ 127.531 Checksum for script __ghost-copier__/control.lua: 134514610
+ 127.535 Checksum for script __upgrade-planner__/control.lua: 2708626077
+ 150.093 Info BlueprintShelf.cpp:683: Saving blueprint storage.
+ 151.721 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287288; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 151.786 Loading Level.dat: 998908 bytes.
+ 151.786 Info Scenario.cpp:135: Map version 0.15.40-0
+ 151.862 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 151.862 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287288; records:
+ 151.864 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287288; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 151.866 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 151.870 Checksum for script __ModuleInserter__/control.lua: 2621239929
+ 151.872 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+ 151.873 Checksum for script __ghost-copier__/control.lua: 134514610
+ 151.877 Checksum for script __upgrade-planner__/control.lua: 2708626077
+ 163.624 Info BlueprintShelf.cpp:683: Saving blueprint storage.
+ 165.279 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287301; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 165.353 Loading Level.dat: 1093939 bytes.
+ 165.353 Info Scenario.cpp:135: Map version 0.15.40-0
+ 165.440 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 165.441 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287301; records:
+ 165.443 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287301; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 165.446 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 165.450 Checksum for script __ModuleInserter__/control.lua: 2621239929
+ 165.452 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+ 165.453 Checksum for script __ghost-copier__/control.lua: 134514610
+ 165.456 Checksum for script __upgrade-planner__/control.lua: 2708626077
+ 177.657 Info BlueprintShelf.cpp:683: Saving blueprint storage.
+ 213.074 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287315; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 213.160 Loading Level.dat: 1311446 bytes.
+ 213.160 Info Scenario.cpp:135: Map version 0.15.40-0
+ 213.258 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 213.258 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287349; records:
+ 213.261 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287315; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 213.263 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 213.267 Checksum for script __ModuleInserter__/control.lua: 2621239929
+ 213.269 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+ 213.271 Checksum for script __ghost-copier__/control.lua: 134514610
+ 213.274 Checksum for script __upgrade-planner__/control.lua: 2708626077
+ 220.057 Info BlueprintShelf.cpp:683: Saving blueprint storage.
+ 254.305 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287358; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 254.371 Loading Level.dat: 961930 bytes.
+ 254.371 Info Scenario.cpp:135: Map version 0.15.40-0
+ 254.444 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 254.444 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287390; records:
+ 254.446 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287358; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 254.449 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 254.453 Checksum for script __ModuleInserter__/control.lua: 2621239929
+ 254.455 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+ 254.456 Checksum for script __ghost-copier__/control.lua: 134514610
+ 254.459 Checksum for script __upgrade-planner__/control.lua: 2708626077
+ 262.709 Info BlueprintShelf.cpp:683: Saving blueprint storage.
+ 264.359 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 264.427 Loading Level.dat: 977889 bytes.
+ 264.427 Info Scenario.cpp:135: Map version 0.15.40-0
+ 264.504 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 264.504 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287401; records:
+ 264.506 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287400; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 264.508 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 264.512 Checksum for script __ModuleInserter__/control.lua: 2621239929
+ 264.514 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+ 264.515 Checksum for script __ghost-copier__/control.lua: 134514610
+ 264.519 Checksum for script __upgrade-planner__/control.lua: 2708626077
+ 282.391 Info BlueprintShelf.cpp:683: Saving blueprint storage.
+ 284.047 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287420; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 284.123 Loading Level.dat: 1012555 bytes.
+ 284.123 Info Scenario.cpp:135: Map version 0.15.40-0
+ 284.204 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 284.204 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287420; records:
+ 284.207 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287420; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 284.209 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 284.213 Checksum for script __ModuleInserter__/control.lua: 2621239929
+ 284.215 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+ 284.217 Checksum for script __ghost-copier__/control.lua: 134514610
+ 284.220 Checksum for script __upgrade-planner__/control.lua: 2708626077
+ 294.938 Info BlueprintShelf.cpp:683: Saving blueprint storage.
+ 296.601 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287433; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 296.683 Loading Level.dat: 1126044 bytes.
+ 296.683 Info Scenario.cpp:135: Map version 0.15.40-0
+ 296.769 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+ 296.769 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287433; records:
+ 296.772 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287433; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+ 296.774 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+ 296.778 Checksum for script __ModuleInserter__/control.lua: 2621239929
+ 296.780 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+ 296.781 Checksum for script __ghost-copier__/control.lua: 134514610
+ 296.785 Checksum for script __upgrade-planner__/control.lua: 2708626077
+ 818.015 Info BlueprintShelf.cpp:683: Saving blueprint storage.
+3617.313 Steam API shutdown.
+3617.314 Goodbye
