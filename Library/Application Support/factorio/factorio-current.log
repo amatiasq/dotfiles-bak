@@ -1,74 +1,61 @@
-   0.000 2018-03-06 19:43:48; Factorio 0.15.40 (build 30950, mac, steam)
-   0.000 Operating system: Mac OS X 10.12.6
-   0.000 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
-   0.000 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
-   0.000 Write data path: /Users/mquezada/Library/Application Support/factorio
-   0.000 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
-   0.033 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384MB]
-   0.041 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
-   0.041 Available display adapters: 1
-   0.041  [0]: resolution 1440x900px at [0,0]
-   0.042 Create display on adapter 0. Size 1280x720 at position [70, 72].
-   0.481 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
-   0.757 Graphics settings preset: medium
-   0.757 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
-   0.982 Loading mod core 0.0.0 (data.lua)
-   1.018 Loading mod base 0.15.40 (data.lua)
-   1.324 Loading mod ModuleInserter 2.0.5 (data.lua)
-   1.349 Loading mod AfraidOfTheDark 1.0.16 (data.lua)
-   1.376 Loading mod upgrade-planner 1.4.11 (data.lua)
-   1.400 Loading mod base 0.15.40 (data-updates.lua)
-   1.452 Loading mod AfraidOfTheDark 1.0.16 (data-updates.lua)
-   1.479 Loading mod ModuleInserter 2.0.5 (data-final-fixes.lua)
-   1.522 Checksum for core: 3865022077
-   1.522 Checksum of base: 1503927233
-   1.522 Checksum of ModuleInserter: 4260068510
-   1.522 Checksum of AfraidOfTheDark: 1350726015
-   1.522 Checksum of ghost-copier: 0
-   1.522 Checksum of upgrade-planner: 2070181918
-   1.950 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520328349
-   1.950 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1520278290
-   2.099 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
-   2.102 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
-   2.114 Initial atlas bitmap size is 16384
-   2.116 Created atlas bitmap 16384x5048
-   2.116 Created atlas bitmap 8192x2034
-   2.117 Created atlas bitmap 8192x1443
-   2.117 Created atlas bitmap 4096x3648
-   2.117 Created atlas bitmap 4096x1568
-   2.117 Created atlas bitmap 4096x1868
-  21.756 Sprites loaded
-  21.756 Convert atlas 4096x3648 to: mipmap 
-  22.204 Convert atlas 4096x1568 to: mipmap 
-  22.402 Convert atlas 4096x1868 to: trilinear-filtering 
-  22.541 Loading sounds...
-  25.239 Custom inputs active: 2
-  25.302 Factorio initialised
-  30.602 Loading map /Users/mquezada/Library/Application Support/factorio/saves/Matibase.zip: 4683283 bytes.
-  30.647 Loading Level.dat: 8067383 bytes.
-  30.652 Info Scenario.cpp:135: Map version 0.15.40-0
-  30.987 Info BlueprintLibrary.cpp:226: Loaded library shelves:
-  30.988 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287433; records:
-  30.988 Info BlueprintLibrary.cpp:796: Player shelf: playerIndex = 0, nextRecordID = 1; timestamp = 1520287956; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-  31.008 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287956; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-  31.008 Loading script.dat: 820 bytes.
-  31.018 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
-  31.021 Checksum for script __ModuleInserter__/control.lua: 2621239929
-  31.023 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
-  31.024 Checksum for script __ghost-copier__/control.lua: 134514610
-  31.027 Checksum for script __upgrade-planner__/control.lua: 2708626077
-6884.168 Loading map /Users/mquezada/Library/Application Support/factorio/saves/Matibase.zip: 4773216 bytes.
-6884.196 Loading Level.dat: 8531126 bytes.
-6884.201 Info Scenario.cpp:135: Map version 0.15.40-0
-6884.504 Info BlueprintLibrary.cpp:226: Loaded library shelves:
-6884.504 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287433; records:
-6884.504 Info BlueprintLibrary.cpp:796: Player shelf: playerIndex = 0, nextRecordID = 1; timestamp = 1520287956; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-6884.523 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287956; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-6884.523 Loading script.dat: 820 bytes.
-6884.528 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
-6884.535 Checksum for script __ModuleInserter__/control.lua: 2621239929
-6884.537 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
-6884.539 Checksum for script __ghost-copier__/control.lua: 134514610
-6884.545 Checksum for script __upgrade-planner__/control.lua: 2708626077
-12130.370 Steam API shutdown.
-12130.393 Goodbye
+   0.001 2018-03-07 14:06:06; Factorio 0.15.40 (build 30950, mac, steam)
+   0.001 Operating system: Mac OS X 10.12.6
+   0.001 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
+   0.001 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
+   0.001 Write data path: /Users/mquezada/Library/Application Support/factorio
+   0.001 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
+   0.028 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384MB]
+   0.037 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
+   0.037 Available display adapters: 1
+   0.037  [0]: resolution 1440x900px at [0,0]
+   0.037 Create display on adapter 0. Size 1280x720 at position [70, 72].
+   0.480 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
+   0.770 Graphics settings preset: medium
+   0.770 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
+   1.074 Loading mod core 0.0.0 (data.lua)
+   1.098 Loading mod base 0.15.40 (data.lua)
+   1.452 Loading mod ModuleInserter 2.0.5 (data.lua)
+   1.478 Loading mod AfraidOfTheDark 1.0.16 (data.lua)
+   1.502 Loading mod upgrade-planner 1.4.11 (data.lua)
+   1.524 Loading mod base 0.15.40 (data-updates.lua)
+   1.558 Loading mod AfraidOfTheDark 1.0.16 (data-updates.lua)
+   1.583 Loading mod ModuleInserter 2.0.5 (data-final-fixes.lua)
+   1.643 Checksum for core: 3865022077
+   1.643 Checksum of base: 1503927233
+   1.643 Checksum of ModuleInserter: 4260068510
+   1.643 Checksum of AfraidOfTheDark: 1350726015
+   1.643 Checksum of ghost-copier: 0
+   1.643 Checksum of upgrade-planner: 2070181918
+   2.061 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520415496
+   2.061 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1520278290
+   2.216 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
+   2.223 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
+   2.237 Initial atlas bitmap size is 16384
+   2.238 Created atlas bitmap 16384x5048
+   2.239 Created atlas bitmap 8192x2034
+   2.239 Created atlas bitmap 8192x1443
+   2.239 Created atlas bitmap 4096x3648
+   2.239 Created atlas bitmap 4096x1568
+   2.239 Created atlas bitmap 4096x1868
+  20.973 Sprites loaded
+  20.973 Convert atlas 4096x3648 to: mipmap 
+  21.270 Convert atlas 4096x1568 to: mipmap 
+  21.419 Convert atlas 4096x1868 to: trilinear-filtering 
+  21.630 Loading sounds...
+  24.280 Custom inputs active: 2
+  24.337 Factorio initialised
+  29.042 Loading map /Users/mquezada/Library/Application Support/factorio/saves/Matibase.zip: 5362377 bytes.
+  29.083 Loading Level.dat: 9850678 bytes.
+  29.087 Info Scenario.cpp:135: Map version 0.15.40-0
+  29.470 Info BlueprintLibrary.cpp:226: Loaded library shelves:
+  29.472 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287433; records:
+  29.472 Info BlueprintLibrary.cpp:796: Player shelf: playerIndex = 0, nextRecordID = 1; timestamp = 1520287956; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+  29.496 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287956; records: (id: 0, 0; label: "", preview: false, empty: false; book)
+  29.496 Loading script.dat: 820 bytes.
+  29.502 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
+  29.506 Checksum for script __ModuleInserter__/control.lua: 2621239929
+  29.508 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
+  29.510 Checksum for script __ghost-copier__/control.lua: 134514610
+  29.513 Checksum for script __upgrade-planner__/control.lua: 2708626077
+4178.779 Steam API shutdown.
+4178.781 Goodbye
