@@ -1,61 +1,164 @@
-   0.000 2018-03-12 19:28:00; Factorio 0.15.40 (build 30950, mac, steam)
-   0.001 Operating system: Mac OS X 10.12.6
-   0.001 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
-   0.001 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
-   0.001 Write data path: /Users/mquezada/Library/Application Support/factorio
-   0.001 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
-   0.035 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384MB]
-   0.043 Display options: [FullScreen: 1] [VSync: 1] [UIScale: 100%] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
-   0.043 Available display adapters: 1
-   0.043  [0]: resolution 1440x900px at [0,0]
-   0.043 Create display on adapter 0. Size 1280x720 at position [70, 72].
-   0.580 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
-   0.840 Graphics settings preset: medium
-   0.840 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
-   1.075 Loading mod core 0.0.0 (data.lua)
-   1.105 Loading mod base 0.15.40 (data.lua)
-   1.388 Loading mod ModuleInserter 2.0.5 (data.lua)
-   1.417 Loading mod AfraidOfTheDark 1.0.16 (data.lua)
-   1.443 Loading mod upgrade-planner 1.4.11 (data.lua)
-   1.468 Loading mod base 0.15.40 (data-updates.lua)
-   1.510 Loading mod AfraidOfTheDark 1.0.16 (data-updates.lua)
-   1.536 Loading mod ModuleInserter 2.0.5 (data-final-fixes.lua)
-   1.592 Checksum for core: 3865022077
-   1.592 Checksum of base: 1503927233
-   1.592 Checksum of ModuleInserter: 4260068510
-   1.592 Checksum of AfraidOfTheDark: 1350726015
-   1.592 Checksum of ghost-copier: 0
-   1.592 Checksum of upgrade-planner: 2070181918
-   2.047 Info PlayerData.cpp:58: Local player-data.json available, timestamp 1520845516
-   2.047 Info PlayerData.cpp:63: Cloud player-data.json available, timestamp 1520278290
-   2.240 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
-   2.251 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
-   2.269 Initial atlas bitmap size is 16384
-   2.271 Created atlas bitmap 16384x5048
-   2.271 Created atlas bitmap 8192x2034
-   2.271 Created atlas bitmap 8192x1443
-   2.272 Created atlas bitmap 4096x3648
-   2.274 Created atlas bitmap 4096x1568
-   2.274 Created atlas bitmap 4096x1868
-  22.457 Sprites loaded
-  22.457 Convert atlas 4096x3648 to: mipmap 
-  22.805 Convert atlas 4096x1568 to: mipmap 
-  23.003 Convert atlas 4096x1868 to: trilinear-filtering 
-  23.214 Loading sounds...
-  26.025 Custom inputs active: 2
-  26.080 Factorio initialised
-  29.976 Loading map /Users/mquezada/Library/Application Support/factorio/saves/Matibase.zip: 5543319 bytes.
-  30.003 Loading Level.dat: 10683114 bytes.
-  30.009 Info Scenario.cpp:135: Map version 0.15.40-0
-  30.403 Info BlueprintLibrary.cpp:226: Loaded library shelves:
-  30.403 Info BlueprintLibrary.cpp:794: Game shelf: playerIndex = 65535, nextRecordID = 0; timestamp = 1520287433; records:
-  30.403 Info BlueprintLibrary.cpp:796: Player shelf: playerIndex = 0, nextRecordID = 1; timestamp = 1520287956; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-  30.429 Info BlueprintLibrary.cpp:49: Loaded external blueprint storage: playerIndex = 0, nextRecordID = 1; timestamp = 1520287956; records: (id: 0, 0; label: "", preview: false, empty: false; book)
-  30.429 Loading script.dat: 1418 bytes.
-  30.435 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 282129324
-  30.441 Checksum for script __ModuleInserter__/control.lua: 2621239929
-  30.443 Checksum for script __AfraidOfTheDark__/control.lua: 980477186
-  30.444 Checksum for script __ghost-copier__/control.lua: 134514610
-  30.447 Checksum for script __upgrade-planner__/control.lua: 2708626077
-8748.585 Steam API shutdown.
-8748.608 Goodbye
+   0.000 2018-03-24 22:41:07; Factorio 0.16.35 (build 36215, mac, steam)
+   0.000 Operating system: macOS 10.12.6
+   0.000 Program arguments: "/Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
+   0.000 Read data path: /Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
+   0.000 Write data path: /Users/amatiasq/Library/Application Support/factorio [22611/114548MB]
+   0.000 Binaries path: /Users/amatiasq/Library/Application Support/Steam/steamapps/common
+   0.018 System info: [CPU: Intel(R) Core(TM) i5-4258U CPU @ 2.40GHz, 4 cores, RAM: 4096 MB]
+   0.053 Display options: [FullScreen: 1] [VSync: 1] [UIScale: system (100.0%)] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
+   0.054 Available display adapters: 1
+   0.054  [0]: resolution 1280x800px at [0,0]
+   0.054 Create display on adapter 0. Size 1230x720 at position [15, 22].
+   0.782 Initialised OpenGL:[0] Intel Iris OpenGL Engine; driver: 2.1 INTEL-10.25.19
+   0.782   Dedicated video memory size 1536 MB
+   0.958 Total system memory is low (4096 MB). Setting graphics preset to MacWithLowRAM.
+   0.958 Graphics options: [Graphics quality: normal] [Video memory usage: medium] [Light scale: 25%] [DXT: false] [Shader: 1]
+   0.958                   [Parallel sprite loading: 1] [Max texture size: 4096/4096] [Bmp cache: 0] [Sprite slicing: 1] [Low quality rotation: 1]
+   1.134 Error GlobalModSettings.cpp:107: Failed to migrate mod settings file: Error when opening /Users/amatiasq/Library/Application Support/factorio/mods/mod-settings.json for reading: No such file or directory
+   1.135 Loading mod core 0.0.0 (data.lua)
+   1.164 Loading mod base 0.16.35 (data.lua)
+   1.372 Loading mod ModuleInserter 3.0.1 (data.lua)
+   1.431 Loading mod AfraidOfTheDark 1.0.20 (data.lua)
+   1.489 Loading mod upgrade-planner 1.5.2 (data.lua)
+   1.543 Loading mod base 0.16.35 (data-updates.lua)
+   1.618 Loading mod AfraidOfTheDark 1.0.20 (data-updates.lua)
+   1.678 Loading mod ModuleInserter 3.0.1 (data-final-fixes.lua)
+   1.756 Checksum for core: 1316978547
+   1.756 Checksum of base: 4140083139
+   1.756 Checksum of ModuleInserter: 208905385
+   1.756 Checksum of AfraidOfTheDark: 3127716310
+   1.756 Checksum of upgrade-planner: 378958687
+   1.953 Loading sounds...
+   2.253 Info PlayerData.cpp:67: Local player-data.json unavailable
+   2.253 Info PlayerData.cpp:70: Cloud player-data.json available, timestamp 1521906133
+   2.378 Loaded shader file /Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
+   2.390 Loaded shader file /Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
+   2.393 Loaded shader file /Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/alpha-mask.glsl
+   2.411 Crop bitmaps.
+   2.583 Initial atlas bitmap size is 4096
+   2.587 Created atlas bitmap 4096x4084 [none]
+   2.587 Created atlas bitmap 4096x1593 [none]
+   2.590 Created atlas bitmap 4096x4033 [terrain]
+   2.590 Created atlas bitmap 4096x608 [terrain]
+   2.590 Created atlas bitmap 4096x1707 [shadow]
+   2.590 Created atlas bitmap 4096x1374 [smoke]
+   2.590 Created atlas bitmap 4096x1868 [no-crop, trilinear-filtering, icon, light]
+   2.591 Created atlas bitmap 4096x476 [alpha-mask]
+  44.948 Sprites loaded
+  44.951 Convert atlas 4096x1868 to: trilinear-filtering 
+  45.211 Convert atlas 4096x476 to: alpha-mask
+  45.357 Custom inputs active: 2
+  45.463 Factorio initialised
+  45.467 Game is running on selected version branch on Steam.
+ 846.664 Loading map /Users/amatiasq/Library/Application Support/factorio/saves/Matibase.zip: 5463634 bytes.
+ 846.700 Loading Level.dat: 11136085 bytes.
+ 846.707 Info Scenario.cpp:136: Map version 0.15.40-0
+ 846.754 Info PrototypeMigrationList.cpp:61: Activating migration base/2017-12-03_Factorio_0.16.0.json
+ 847.865 Applying migration: Base Mod: 2017-08-08_Factorio_0.16.0.lua
+ 847.885 Applying migration: Base Mod: 2017-11-07_Factorio_0.16.0.lua
+ 847.919 Applying migration: Base Mod: 2018-01-09_Factorio_0.16.15.lua
+ 847.940 Applying migration: Base Mod: 2018-01-09_Factorio_0.16.27.lua
+ 847.950 Loading script.dat: 1645 bytes.
+ 847.958 Checksum for script /Users/amatiasq/Library/Application Support/factorio/temp/currently-playing/control.lua: 55817070
+ 847.967 Checksum for script __ModuleInserter__/control.lua: 3707042299
+ 847.972 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+ 847.980 Checksum for script __upgrade-planner__/control.lua: 954781066
+ 847.985 Script @/Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/lualib/silo-script.lua:23: Running silo script migration: 1 -> 2
+ 847.985 Script @/Users/amatiasq/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/lualib/silo-script.lua:100: Executing silo script migration - Mod gui from left to top
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 10{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 11{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 12{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 13{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 14{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 15{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 16{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 10{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 11{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 12{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 13{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 14{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 15{from = "", to = ""}
+ 847.995 Script @__upgrade-planner__/control.lua:978: Deleted invalid config: 16{from = "", to = ""}
+ 941.351 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+ 942.182 Info AppManagerStates.cpp:1642: Saving finished
+1242.316 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+1243.061 Info AppManagerStates.cpp:1642: Saving finished
+1543.187 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+1543.747 Info BlueprintShelf.cpp:628: Saving blueprint storage.
+1543.902 Info AppManagerStates.cpp:1642: Saving finished
+1843.945 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+1844.678 Info AppManagerStates.cpp:1642: Saving finished
+2156.677 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+2157.235 Info BlueprintShelf.cpp:628: Saving blueprint storage.
+2157.392 Info AppManagerStates.cpp:1642: Saving finished
+2457.451 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+2458.201 Info AppManagerStates.cpp:1642: Saving finished
+2485.259 Info AppManagerStates.cpp:1642: Saving finished
+3595.627 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+3596.642 Info AppManagerStates.cpp:1642: Saving finished
+3897.572 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+3898.335 Info AppManagerStates.cpp:1642: Saving finished
+4198.377 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+4199.098 Info AppManagerStates.cpp:1642: Saving finished
+4499.220 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+4499.987 Info AppManagerStates.cpp:1642: Saving finished
+4800.012 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+4800.713 Info AppManagerStates.cpp:1642: Saving finished
+5100.954 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+5101.723 Info AppManagerStates.cpp:1642: Saving finished
+5401.784 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+5402.584 Info AppManagerStates.cpp:1642: Saving finished
+5702.740 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+5703.507 Info AppManagerStates.cpp:1642: Saving finished
+6009.169 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+6010.037 Info AppManagerStates.cpp:1642: Saving finished
+6310.134 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+6310.962 Info AppManagerStates.cpp:1642: Saving finished
+6611.006 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+6611.772 Info AppManagerStates.cpp:1642: Saving finished
+6911.847 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+6912.614 Info AppManagerStates.cpp:1642: Saving finished
+7212.622 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+7213.373 Info AppManagerStates.cpp:1642: Saving finished
+7513.432 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+7514.166 Info AppManagerStates.cpp:1642: Saving finished
+7814.231 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+7815.114 Info AppManagerStates.cpp:1642: Saving finished
+8115.157 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+8116.071 Info AppManagerStates.cpp:1642: Saving finished
+8416.127 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+8416.910 Info AppManagerStates.cpp:1642: Saving finished
+8716.938 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+8717.782 Info AppManagerStates.cpp:1642: Saving finished
+9017.948 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+9018.799 Info AppManagerStates.cpp:1642: Saving finished
+9319.410 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+9320.193 Info AppManagerStates.cpp:1642: Saving finished
+9620.247 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+9620.998 Info AppManagerStates.cpp:1642: Saving finished
+9929.950 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+9931.137 Info AppManagerStates.cpp:1642: Saving finished
+10232.132 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+10233.760 Info AppManagerStates.cpp:1642: Saving finished
+12333.162 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+12334.262 Info AppManagerStates.cpp:1642: Saving finished
+12634.281 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+12634.991 Info AppManagerStates.cpp:1642: Saving finished
+12951.602 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+12952.541 Info AppManagerStates.cpp:1642: Saving finished
+13253.035 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+13253.751 Info AppManagerStates.cpp:1642: Saving finished
+13553.926 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+13554.907 Info AppManagerStates.cpp:1642: Saving finished
+13854.965 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+13855.649 Info AppManagerStates.cpp:1642: Saving finished
+14156.099 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+14156.843 Info AppManagerStates.cpp:1642: Saving finished
+14456.868 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+14457.619 Info AppManagerStates.cpp:1642: Saving finished
+14757.627 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+14758.394 Info AppManagerStates.cpp:1642: Saving finished
+14951.011 Info AppManagerStates.cpp:1642: Saving finished
+14952.962 Info GlobalContext.cpp:694: Waiting for child processes to exit: 
+14956.548 Steam API shutdown.
+14956.606 Goodbye

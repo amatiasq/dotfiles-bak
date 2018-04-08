@@ -10,7 +10,7 @@
     },
     {
       "name": "ghost-copier",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "ModuleInserter",

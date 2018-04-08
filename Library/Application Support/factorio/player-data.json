@@ -26,5 +26,22 @@
     "trains-stations": "completed"
   },
   "service-username": "amatiasq",
-  "service-token": "e98a41c815e46379793a89cf9f6d2e"
+  "service-token": "e98a41c815e46379793a89cf9f6d2e",
+  "last-used-filters": {
+    "password": "any",
+    "mods": "any",
+    "friends": "any"
+  },
+  "column-ordering": {
+    "public-index": "name",
+    "public-ascending": true,
+    "lan-index": "name",
+    "lan-ascending": true
+  },
+  "last-played-version": {
+    "game_version": "0.16.35",
+    "build_version": 36215,
+    "build_mode": "steam",
+    "platform": "mac"
+  }
 }
