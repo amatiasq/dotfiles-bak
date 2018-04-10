@@ -39,8 +39,8 @@
     "lan-ascending": true
   },
   "last-played-version": {
-    "game_version": "0.16.35",
-    "build_version": 36215,
+    "game_version": "0.16.36",
+    "build_version": 36253,
     "build_mode": "steam",
     "platform": "mac"
   }
