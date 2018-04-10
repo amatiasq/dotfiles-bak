@@ -1,37 +1,63 @@
-   0.000 2018-04-10 10:48:51; Factorio 0.16.36 (build 36253, mac, steam)
-   0.000 Operating system: macOS 10.12.6
-   0.000 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
-   0.000 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
-   0.000 Write data path: /Users/mquezada/Library/Application Support/factorio [374379/475844MB]
-   0.000 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
-   0.018 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384 MB]
-   0.025 Display options: [FullScreen: 1] [VSync: 1] [UIScale: system (100.0%)] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
-   0.026 Available display adapters: 2
-   0.026  [0]: resolution 1440x900px at [0,0]
-   0.026  [1]: resolution 2560x1440px at [1440,-540]
-   0.026 Create display on adapter 0. Size 1280x720 at position [70, 72].
-   0.498 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
-   0.498   Dedicated video memory size 1536 MB
-   0.812 Graphics settings preset: high
-   0.812 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
-   0.812                   [Parallel sprite loading: 1] [Max texture size: 0/8192] [Bmp cache: 0] [Sprite slicing: 1] [Low quality rotation: 0]
-   0.896 Error GlobalModSettings.cpp:107: Failed to migrate mod settings file: Error when opening /Users/mquezada/Library/Application Support/factorio/mods/mod-settings.json for reading: No such file or directory
-   0.897 Loading mod core 0.0.0 (data.lua)
-   0.923 Loading mod base 0.16.36 (data.lua)
-   1.061 Loading mod ModuleInserter 3.0.1 (data.lua)
-   1.106 Loading mod AfraidOfTheDark 1.0.20 (data.lua)
-   1.157 Loading mod upgrade-planner 1.5.2 (data.lua)
-   1.199 Loading mod base 0.16.36 (data-updates.lua)
-   1.248 Loading mod AfraidOfTheDark 1.0.20 (data-updates.lua)
-   1.306 Loading mod ModuleInserter 3.0.1 (data-final-fixes.lua)
-   1.380 Checksum for core: 1316978547
-   1.380 Checksum of base: 4140083139
-   1.380 Checksum of ModuleInserter: 208905385
-   1.380 Checksum of AfraidOfTheDark: 3127716310
-   1.380 Checksum of upgrade-planner: 378958687
-   1.520 Loading sounds...
-   1.562 Info PlayerData.cpp:67: Local player-data.json unavailable
-   1.562 Info PlayerData.cpp:70: Cloud player-data.json available, timestamp 1523305025
-   1.673 Closed during loading.
-   1.845 Steam API shutdown.
-   1.846 Goodbye
+   0.001 2018-04-10 19:53:37; Factorio 0.16.36 (build 36253, mac, steam)
+   0.001 Operating system: macOS 10.12.6
+   0.001 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
+   0.001 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
+   0.001 Write data path: /Users/mquezada/Library/Application Support/factorio [373941/475844MB]
+   0.001 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
+   0.024 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384 MB]
+   0.030 Display options: [FullScreen: 1] [VSync: 1] [UIScale: system (100.0%)] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
+   0.030 Available display adapters: 1
+   0.031  [0]: resolution 1440x900px at [0,0]
+   0.031 Create display on adapter 0. Size 1280x720 at position [70, 72].
+   0.486 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
+   0.487   Dedicated video memory size 1536 MB
+   0.790 Graphics settings preset: high
+   0.790 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
+   0.790                   [Parallel sprite loading: 1] [Max texture size: 0/8192] [Bmp cache: 0] [Sprite slicing: 1] [Low quality rotation: 0]
+   0.989 Error GlobalModSettings.cpp:107: Failed to migrate mod settings file: Error when opening /Users/mquezada/Library/Application Support/factorio/mods/mod-settings.json for reading: No such file or directory
+   0.991 Loading mod core 0.0.0 (data.lua)
+   1.058 Loading mod base 0.16.36 (data.lua)
+   1.431 Loading mod ModuleInserter 3.0.1 (data.lua)
+   1.476 Loading mod AfraidOfTheDark 1.0.20 (data.lua)
+   1.519 Loading mod upgrade-planner 1.5.2 (data.lua)
+   1.557 Loading mod base 0.16.36 (data-updates.lua)
+   1.613 Loading mod AfraidOfTheDark 1.0.20 (data-updates.lua)
+   1.662 Loading mod ModuleInserter 3.0.1 (data-final-fixes.lua)
+   1.722 Checksum for core: 1316978547
+   1.722 Checksum of base: 4140083139
+   1.722 Checksum of ModuleInserter: 208905385
+   1.722 Checksum of AfraidOfTheDark: 3127716310
+   1.722 Checksum of upgrade-planner: 378958687
+   1.871 Loading sounds...
+   3.219 Info PlayerData.cpp:67: Local player-data.json unavailable
+   3.219 Info PlayerData.cpp:70: Cloud player-data.json available, timestamp 1523305025
+   3.341 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
+   3.343 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
+   3.346 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/alpha-mask.glsl
+   3.368 Initial atlas bitmap size is 16384
+   3.370 Created atlas bitmap 16384x5940 [none]
+   3.371 Created atlas bitmap 16384x847 [shadow]
+   3.371 Created atlas bitmap 16384x682 [decal]
+   3.371 Created atlas bitmap 8192x1500 [mipmap]
+   3.371 Created atlas bitmap 8192x800 [mipmap, smoke]
+   3.372 Created atlas bitmap 8192x2376 [linear-minification, mipmap, terrain]
+   3.372 Created atlas bitmap 8192x1036 [no-crop, trilinear-filtering, icon, light]
+   3.372 Created atlas bitmap 8192x238 [alpha-mask]
+  20.946 Sprites loaded
+  20.946 Convert atlas 8192x1500 to: mipmap 
+  21.190 Convert atlas 8192x800 to: mipmap 
+  21.309 Convert atlas 8192x2376 to: min-linear 
+  21.739 Convert atlas 8192x1036 to: trilinear-filtering 
+  21.936 Convert atlas 8192x238 to: alpha-mask
+  21.981 Custom inputs active: 2
+  22.045 Factorio initialised
+  27.570 Loading map /Users/mquezada/Library/Application Support/factorio/saves/Matibase.zip: 5185919 bytes.
+  27.595 Loading Level.dat: 10940620 bytes.
+  27.600 Info Scenario.cpp:136: Map version 0.16.36-2
+  28.003 Loading script.dat: 1436 bytes.
+  28.018 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 55817070
+  28.021 Checksum for script __ModuleInserter__/control.lua: 3707042299
+  28.022 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+  28.025 Checksum for script __upgrade-planner__/control.lua: 954781066
+ 166.585 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+ 167.117 Info AppManagerStates.cpp:1642: Saving finished
