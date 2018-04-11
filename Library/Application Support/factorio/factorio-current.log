@@ -61,3 +61,15 @@
   28.025 Checksum for script __upgrade-planner__/control.lua: 954781066
  166.585 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
  167.117 Info AppManagerStates.cpp:1642: Saving finished
+ 472.532 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+ 473.046 Info AppManagerStates.cpp:1642: Saving finished
+ 777.665 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+ 778.572 Info AppManagerStates.cpp:1642: Saving finished
+1114.415 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+1114.908 Info AppManagerStates.cpp:1642: Saving finished
+1504.802 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+1505.950 Info AppManagerStates.cpp:1642: Saving finished
+1905.202 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+1910.302 Info AppManagerStates.cpp:1642: Saving finished
+2305.109 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+2306.424 Info AppManagerStates.cpp:1642: Saving finished
