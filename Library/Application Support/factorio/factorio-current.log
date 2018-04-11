@@ -73,3 +73,7 @@
 1910.302 Info AppManagerStates.cpp:1642: Saving finished
 2305.109 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
 2306.424 Info AppManagerStates.cpp:1642: Saving finished
+2364.002 Info AppManagerStates.cpp:1642: Saving finished
+2373.593 Info GlobalContext.cpp:694: Waiting for child processes to exit: 
+2374.729 Steam API shutdown.
+2374.762 Goodbye
