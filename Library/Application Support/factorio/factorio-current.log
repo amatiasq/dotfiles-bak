@@ -93,3 +93,17 @@
 5121.409 Info AppManagerStates.cpp:1642: Saving finished
 5429.773 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
 5430.185 Info AppManagerStates.cpp:1642: Saving finished
+5766.811 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+5771.276 Info AppManagerStates.cpp:1642: Saving finished
+6157.677 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+6164.757 Info AppManagerStates.cpp:1642: Saving finished
+6543.113 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+6548.395 Info AppManagerStates.cpp:1642: Saving finished
+6918.094 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+6919.332 Info AppManagerStates.cpp:1642: Saving finished
+7283.806 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+7285.311 Info AppManagerStates.cpp:1642: Saving finished
+7528.243 Info AppManagerStates.cpp:1642: Saving finished
+7531.578 Info GlobalContext.cpp:694: Waiting for child processes to exit: 
+7534.058 Steam API shutdown.
+7534.110 Goodbye
