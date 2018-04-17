@@ -1,77 +1,66 @@
-   0.000 2018-04-16 10:03:31; Factorio 0.16.36 (build 36253, mac, steam)
+   0.000 2018-04-17 10:29:00; Factorio 0.16.36 (build 36253, mac, steam)
    0.000 Operating system: macOS 10.12.6
    0.000 Program arguments: "/Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app" 
    0.000 Read data path: /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data
-   0.001 Write data path: /Users/mquezada/Library/Application Support/factorio [371878/475844MB]
-   0.001 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
-   0.014 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384 MB]
-   0.021 Display options: [FullScreen: 1] [VSync: 1] [UIScale: system (100.0%)] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
-   0.021 Available display adapters: 1
-   0.021  [0]: resolution 1440x900px at [0,0]
-   0.021 Create display on adapter 0. Size 1280x720 at position [70, 72].
-   0.492 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
-   0.493   Dedicated video memory size 1536 MB
-   0.803 Graphics settings preset: high
-   0.803 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
-   0.803                   [Parallel sprite loading: 1] [Max texture size: 0/8192] [Bmp cache: 0] [Sprite slicing: 1] [Low quality rotation: 0]
-   0.935 Error GlobalModSettings.cpp:107: Failed to migrate mod settings file: Error when opening /Users/mquezada/Library/Application Support/factorio/mods/mod-settings.json for reading: No such file or directory
-   0.936 Loading mod core 0.0.0 (data.lua)
-   0.971 Loading mod base 0.16.36 (data.lua)
-   1.169 Loading mod ModuleInserter 3.0.1 (data.lua)
-   1.210 Loading mod AfraidOfTheDark 1.0.20 (data.lua)
-   1.251 Loading mod upgrade-planner 1.5.2 (data.lua)
-   1.288 Loading mod base 0.16.36 (data-updates.lua)
-   1.330 Loading mod AfraidOfTheDark 1.0.20 (data-updates.lua)
-   1.368 Loading mod ModuleInserter 3.0.1 (data-final-fixes.lua)
-   1.424 Checksum for core: 1316978547
-   1.424 Checksum of base: 4140083139
-   1.424 Checksum of ModuleInserter: 208905385
-   1.424 Checksum of AfraidOfTheDark: 3127716310
-   1.424 Checksum of upgrade-planner: 378958687
-   1.549 Loading sounds...
-   2.392 Info PlayerData.cpp:67: Local player-data.json unavailable
-   2.392 Info PlayerData.cpp:70: Cloud player-data.json available, timestamp 1523305025
-   2.496 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
-   2.503 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
-   2.506 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/alpha-mask.glsl
-   2.531 Initial atlas bitmap size is 16384
-   2.534 Created atlas bitmap 16384x5940 [none]
-   2.535 Created atlas bitmap 16384x847 [shadow]
-   2.535 Created atlas bitmap 16384x682 [decal]
-   2.535 Created atlas bitmap 8192x1500 [mipmap]
-   2.536 Created atlas bitmap 8192x800 [mipmap, smoke]
-   2.536 Created atlas bitmap 8192x2376 [linear-minification, mipmap, terrain]
-   2.536 Created atlas bitmap 8192x1036 [no-crop, trilinear-filtering, icon, light]
-   2.537 Created atlas bitmap 8192x238 [alpha-mask]
-  16.181 Sprites loaded
-  16.181 Convert atlas 8192x1500 to: mipmap 
-  16.404 Convert atlas 8192x800 to: mipmap 
-  16.516 Convert atlas 8192x2376 to: min-linear 
-  16.915 Convert atlas 8192x1036 to: trilinear-filtering 
-  17.070 Convert atlas 8192x238 to: alpha-mask
-  17.108 Custom inputs active: 2
-  17.170 Factorio initialised
-  20.469 Loading map /Users/mquezada/Library/Application Support/factorio/saves/Matibase.zip: 5029721 bytes.
-  20.509 Loading Level.dat: 10834192 bytes.
-  20.518 Info Scenario.cpp:136: Map version 0.16.36-2
-  20.914 Loading script.dat: 1951 bytes.
-  20.918 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 55817070
-  20.922 Checksum for script __ModuleInserter__/control.lua: 3707042299
-  20.924 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
-  20.928 Checksum for script __upgrade-planner__/control.lua: 954781066
- 154.624 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
- 155.100 Info AppManagerStates.cpp:1642: Saving finished
- 455.073 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
- 455.532 Info AppManagerStates.cpp:1642: Saving finished
- 755.573 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
- 756.094 Info AppManagerStates.cpp:1642: Saving finished
-1063.773 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
-1064.181 Info BlueprintShelf.cpp:628: Saving blueprint storage.
-1064.305 Info AppManagerStates.cpp:1642: Saving finished
-1370.440 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
-1370.901 Info AppManagerStates.cpp:1642: Saving finished
-1627.768 Info AppManagerStates.cpp:1642: Saving finished
-1648.553 Info AppManagerStates.cpp:1642: Saving finished
-1649.767 Info GlobalContext.cpp:694: Waiting for child processes to exit: 
-1650.305 Steam API shutdown.
-1650.308 Goodbye
+   0.000 Write data path: /Users/mquezada/Library/Application Support/factorio [370351/475844MB]
+   0.000 Binaries path: /Users/mquezada/Library/Application Support/Steam/steamapps/common
+   0.021 System info: [CPU: Intel(R) Core(TM) i7-6567U CPU @ 3.30GHz, 4 cores, RAM: 16384 MB]
+   0.030 Display options: [FullScreen: 1] [VSync: 1] [UIScale: system (100.0%)] [MultiSampling: OFF] [Screen: 255] [Lang: es-ES]
+   0.030 Available display adapters: 1
+   0.030  [0]: resolution 1440x900px at [0,0]
+   0.030 Create display on adapter 0. Size 1280x720 at position [70, 72].
+   0.470 Initialised OpenGL:[0] Intel(R) Iris(TM) Graphics 550; driver: 2.1 INTEL-10.25.19
+   0.470   Dedicated video memory size 1536 MB
+   0.698 Graphics settings preset: high
+   0.698 Graphics options: [Graphics quality: normal] [Video memory usage: high] [Light scale: 25%] [DXT: false] [Shader: 1]
+   0.698                   [Parallel sprite loading: 1] [Max texture size: 0/8192] [Bmp cache: 0] [Sprite slicing: 1] [Low quality rotation: 0]
+   0.793 Error GlobalModSettings.cpp:107: Failed to migrate mod settings file: Error when opening /Users/mquezada/Library/Application Support/factorio/mods/mod-settings.json for reading: No such file or directory
+   0.795 Loading mod core 0.0.0 (data.lua)
+   0.822 Loading mod base 0.16.36 (data.lua)
+   0.973 Loading mod ModuleInserter 3.0.1 (data.lua)
+   1.014 Loading mod AfraidOfTheDark 1.0.20 (data.lua)
+   1.056 Loading mod upgrade-planner 1.5.2 (data.lua)
+   1.097 Loading mod base 0.16.36 (data-updates.lua)
+   1.150 Loading mod AfraidOfTheDark 1.0.20 (data-updates.lua)
+   1.193 Loading mod ModuleInserter 3.0.1 (data-final-fixes.lua)
+   1.254 Checksum for core: 1316978547
+   1.254 Checksum of base: 4140083139
+   1.254 Checksum of ModuleInserter: 208905385
+   1.254 Checksum of AfraidOfTheDark: 3127716310
+   1.254 Checksum of upgrade-planner: 378958687
+   1.377 Loading sounds...
+   1.825 Info PlayerData.cpp:67: Local player-data.json unavailable
+   1.825 Info PlayerData.cpp:70: Cloud player-data.json available, timestamp 1523305025
+   1.922 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/game.glsl
+   1.925 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/zoom-to-world.glsl
+   1.927 Loaded shader file /Users/mquezada/Library/Application Support/Steam/steamapps/common/Factorio/factorio.app/Contents/data/core/graphics/shaders/alpha-mask.glsl
+   1.958 Initial atlas bitmap size is 16384
+   1.961 Created atlas bitmap 16384x5940 [none]
+   1.962 Created atlas bitmap 16384x847 [shadow]
+   1.962 Created atlas bitmap 16384x682 [decal]
+   1.962 Created atlas bitmap 8192x1500 [mipmap]
+   1.963 Created atlas bitmap 8192x800 [mipmap, smoke]
+   1.963 Created atlas bitmap 8192x2376 [linear-minification, mipmap, terrain]
+   1.963 Created atlas bitmap 8192x1036 [no-crop, trilinear-filtering, icon, light]
+   1.964 Created atlas bitmap 8192x238 [alpha-mask]
+  12.428 Sprites loaded
+  12.428 Convert atlas 8192x1500 to: mipmap 
+  12.648 Convert atlas 8192x800 to: mipmap 
+  12.765 Convert atlas 8192x2376 to: min-linear 
+  13.355 Convert atlas 8192x1036 to: trilinear-filtering 
+  13.521 Convert atlas 8192x238 to: alpha-mask
+  13.564 Custom inputs active: 2
+  13.647 Factorio initialised
+  16.658 Loading map /Users/mquezada/Library/Application Support/factorio/saves/_autosave1.zip: 5401666 bytes.
+  16.689 Loading Level.dat: 11068982 bytes.
+  16.695 Info Scenario.cpp:136: Map version 0.16.36-2
+  17.188 Loading script.dat: 1951 bytes.
+  17.196 Checksum for script /Users/mquezada/Library/Application Support/factorio/temp/currently-playing/control.lua: 55817070
+  17.200 Checksum for script __ModuleInserter__/control.lua: 3707042299
+  17.203 Checksum for script __AfraidOfTheDark__/control.lua: 2322376383
+  17.207 Checksum for script __upgrade-planner__/control.lua: 954781066
+ 132.158 Info AppManagerStates.cpp:1642: Saving finished
+ 146.700 Info AppManagerStates.cpp:1642: Saving finished
+ 150.141 Info GlobalContext.cpp:694: Waiting for child processes to exit: 
+ 150.790 Steam API shutdown.
+ 150.792 Goodbye
