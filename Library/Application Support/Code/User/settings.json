@@ -1,12 +1,14 @@
 // Coloque su configuración en este archivo para sobrescribir la configuración predeterminada.
 {
-    "editor.tabSize": 4,
+    "editor.formatOnSave": false,
+    "editor.renderWhitespace": "all",
     "editor.rulers": [
         80,
         120
     ],
+    "editor.tabSize": 4,
     "files.trimTrailingWhitespace": true,
-    "editor.formatOnSave": false,
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "terminal.integrated.shell.osx": "zsh",
     "window.zoomLevel": 1,
-    "editor.renderWhitespace": "all"
 }
