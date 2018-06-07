@@ -10,5 +10,5 @@
     "files.trimTrailingWhitespace": true,
     "javascript.implicitProjectConfig.experimentalDecorators": true,
     "terminal.integrated.shell.osx": "zsh",
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
 }
