@@ -11,4 +11,7 @@
     "javascript.implicitProjectConfig.experimentalDecorators": true,
     "terminal.integrated.shell.osx": "zsh",
     "window.zoomLevel": 0,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.preferences.importModuleSpecifier": "relative"
 }
