@@ -15,5 +15,9 @@
     "typescript.preferences.quoteStyle": "single",
     "typescript.preferences.importModuleSpecifier": "relative",
     "workbench.startupEditor": "newUntitledFile",
-    "javascript.updateImportsOnFileMove.enabled": "always"
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.defaultDateFormat": "YYYY-MM-DD HH:mm:ss"
 }
