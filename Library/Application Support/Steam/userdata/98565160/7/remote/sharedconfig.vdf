@@ -6,8 +6,8 @@
 		{
 			"Steam"
 			{
-				"DesktopShortcutCheck"		"0"
-				"StartMenuShortcutCheck"		"0"
+				"DesktopShortcutCheck"		"1"
+				"StartMenuShortcutCheck"		"1"
 				"AutoLaunchGameListCheck"		"1"
 				"SteamDefaultDialog"		"#app_games"
 				"SSAVersion"		"3"
@@ -1723,7 +1723,7 @@
 		}
 		"253250"
 		{
-			"usetime"		"1842.88671875"
+			"usetime"		"1851.29296875"
 			"selected"		"template://wasd.vdf"
 		}
 		"zeus and poseidon"
@@ -1821,7 +1821,7 @@
 		}
 		"252950"
 		{
-			"usetime"		"7300.70703125"
+			"usetime"		"10555.1572265625"
 			"selected"		"workshop://705009334"
 		}
 		"26900"
@@ -1883,7 +1883,7 @@
 		}
 		"275850"
 		{
-			"usetime"		"58401.45703125"
+			"usetime"		"71009.3125"
 			"selected"		"workshop://743035477"
 		}
 		"stepmania 5"
@@ -2059,7 +2059,7 @@
 		}
 		"271590"
 		{
-			"usetime"		"55372.55078125"
+			"usetime"		"17751.787109375"
 		}
 		"13570"
 		{
@@ -2091,7 +2091,7 @@
 		}
 		"429570"
 		{
-			"usetime"		"905.56982421875"
+			"usetime"		"932.53857421875"
 		}
 		"322500"
 		{
@@ -2115,7 +2115,7 @@
 		}
 		"491950"
 		{
-			"usetime"		"657.0625"
+			"usetime"		"1486.268310546875"
 		}
 		"22380"
 		{
@@ -2132,6 +2132,10 @@
 		"287980"
 		{
 			"usetime"		"2071.06640625"
+		}
+		"368360"
+		{
+			"usetime"		"51.625"
 		}
 	}
 	"controller"
