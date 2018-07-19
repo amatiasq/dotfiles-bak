@@ -12,6 +12,7 @@
         "files.trimTrailingWhitespace": false
     },
     "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.shell.osx": "zsh",
     "window.zoomLevel": 1,
     "javascript.preferences.quoteStyle": "single",
