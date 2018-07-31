@@ -5,3 +5,10 @@
 	email = amatiasq@gmail.com
 [core]
 	editor = vim
+[alias]
+	st = status
+	co = checkout
+	c = commit
+	ca = commit --amend
+	pr = pull --rebasep
+
