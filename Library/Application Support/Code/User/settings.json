@@ -23,5 +23,6 @@
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
-    "gitlens.defaultDateFormat": "YYYY-MM-DD HH:mm:ss"
+    "gitlens.defaultDateFormat": "YYYY-MM-DD HH:mm:ss",
+    "typescript.updateImportsOnFileMove.enabled": "always"
 }
