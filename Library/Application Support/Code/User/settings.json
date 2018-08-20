@@ -14,7 +14,7 @@
     "javascript.implicitProjectConfig.experimentalDecorators": true,
     "terminal.external.osxExec": "iTerm.app",
     "terminal.integrated.shell.osx": "zsh",
-    "window.zoomLevel": 1,
+    "window.zoomLevel": -1,
     "javascript.preferences.quoteStyle": "single",
     "typescript.preferences.quoteStyle": "single",
     "typescript.preferences.importModuleSpecifier": "relative",
