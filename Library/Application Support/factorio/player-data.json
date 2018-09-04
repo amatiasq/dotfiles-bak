@@ -10,6 +10,12 @@
       "level-01": "hard"
     }
   },
+  "console-history": [
+    "/c local surface=game.player.surface local ore=nil local size=5 local density=10 for y=-size, size do     for x=-size, size do         a=(size+1-math.abs(x))*10         b=(size+1-math.abs(y))*10         if a<b then             ore=math.random(a*density-a*(density-8), a*density+a*(density-8))         end         if b<a then             ore=math.random(b*density-b*(density-8), b*density+b*(density-8))         end         if surface.get_tile(game.player.position.x+x, game.player.position.y+y).collides_with(\"ground-tile\") then             surface.create_entity({name=\"stone\", amount=ore, position={game.player.position.x+x, game.player.position.y+y}})         end     end end",
+    "/c local surface=game.player.surface local ore=1000 local size=5 local density=10 for y=-size, size do     for x=-size, size do         if surface.get_tile(game.player.position.x+x, game.player.position.y+y).collides_with(\"ground-tile\") then             surface.create_entity({name=\"iron\", amount=ore, position={game.player.position.x+x, game.player.position.y+y}})         end     end end",
+    "/c local surface=game.player.surface local ore=1000 local size=5 local density=10 for y=-size, size do     for x=-size, size do         if surface.get_tile(game.player.position.x+x, game.player.position.y+y).collides_with(\"ground-tile\") then             surface.create_entity({name=\"iron_ore\", amount=ore, position={game.player.position.x+x, game.player.position.y+y}})         end     end end",
+    "/c local surface=game.player.surface local ore=1000 local size=5 local density=10 for y=-size, size do     for x=-size, size do         if surface.get_tile(game.player.position.x+x, game.player.position.y+y).collides_with(\"ground-tile\") then             surface.create_entity({name=\"iron-ore\", amount=ore, position={game.player.position.x+x, game.player.position.y+y}})         end     end end"
+  ],
   "service-username": "",
   "service-token": "",
   "last-used-filters": {
@@ -24,8 +30,8 @@
     "lan-ascending": true
   },
   "last-played-version": {
-    "game_version": "0.16.36",
-    "build_version": 36253,
+    "game_version": "0.16.51",
+    "build_version": 36654,
     "build_mode": "steam",
     "platform": "mac"
   }
