@@ -83,3 +83,10 @@
 4391.096 Info AppManagerStates.cpp:1639: Saving finished
 4690.220 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
 4692.659 Info AppManagerStates.cpp:1639: Saving finished
+4997.020 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
+4998.016 Info AppManagerStates.cpp:1639: Saving finished
+5298.003 Info AppManager.cpp:260: Saving to _autosave3 (blocking).
+5298.971 Info AppManagerStates.cpp:1639: Saving finished
+5603.053 Info AppManager.cpp:260: Saving to _autosave1 (blocking).
+5604.089 Info AppManagerStates.cpp:1639: Saving finished
+5904.086 Info AppManager.cpp:260: Saving to _autosave2 (blocking).
