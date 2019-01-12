@@ -24,5 +24,6 @@
         "suppressShowKeyBindingsNotice": true
     },
     "gitlens.defaultDateFormat": "YYYY-MM-DD HH:mm:ss",
-    "typescript.updateImportsOnFileMove.enabled": "always"
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "sync.gist": "87a31c502cffa766ab537e1972cd04ac"
 }
